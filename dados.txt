@@ -1,0 +1,2000 @@
+1234	Erick Barros	8-10-1999	Espanha
+1235	Alexandre Araujo	23-9-2003	Canada
+1236	Ana Beatriz Silva	18-2-1995	Portugal
+1237	Alana Sales	15-8-1998	Japao
+1238	Emanuella Pires	12-1-1991	Estados Unidos
+1239	Carolina Viana	13-8-1992	Portugal
+1240	Nicolas da Rosa	3-7-1995	Alemanha
+1241	Lais Lima	19-8-1997	Portugal
+1242	Lara Souza	12-2-1997	Portugal
+1243	Sabrina Souza	29-4-1994	Franca
+1244	Ana Clara Costa	29-9-1994	Brasil
+1245	Elisa Silva	17-1-2000	Alemanha
+1246	Ana Julia Caldeira	28-1-1997	Estados Unidos
+1247	Caua Cardoso	29-5-2000	Alemanha
+1248	Julia Barbosa	6-8-2001	Franca
+1249	Ana Julia Santos	18-10-2003	Argentina
+1250	Yasmin das Neves	15-7-1990	Alemanha
+1251	Marcelo Carvalho	28-8-1996	Argentina
+1252	Caroline Fogaca	8-6-1994	Japao
+1253	Gabrielly da Luz	23-9-2003	Alemanha
+1254	Luiz Gustavo Dias	1-4-1996	Japao
+1255	Melissa da Rocha	4-6-1990	Japao
+1256	Maria Alice Jesus	28-5-2003	Portugal
+1257	Thales Aragao	23-9-1999	Franca
+1258	Leandro Ribeiro	28-3-1999	Franca
+1259	Helena da Mata	1-12-1998	Franca
+1260	Bernardo Barbosa	4-1-2004	Canada
+1261	Andre Almeida	23-10-2000	Italia
+1262	Eloah Alves	20-5-1995	Argentina
+1263	Lucca Martins	8-5-1990	Alemanha
+1264	Fernanda Lima	3-2-2002	Estados Unidos
+1265	Ana Sophia Gomes	7-2-1990	Canada
+1266	Breno Melo	24-5-1991	Canada
+1267	Ana Julia Cunha	17-2-1995	Italia
+1268	Noah da Luz	14-2-1992	Alemanha
+1269	Pedro Henrique Novaes	6-7-1997	Japao
+1270	Catarina Rezende	13-12-1996	Brasil
+1271	Joao Lucas da Cunha	6-2-1998	Estados Unidos
+1272	Alexandre Rocha	4-11-1990	Portugal
+1273	Pedro Henrique Lima	21-5-2002	Brasil
+1274	Davi Lucas Castro	2-9-1998	Portugal
+1275	Emanuelly da Cruz	30-8-1999	Argentina
+1276	Helena Lopes	29-12-1996	Alemanha
+1277	Alana Correia	4-4-1996	Argentina
+1278	Lorena Cardoso	5-9-1990	Franca
+1279	Luiz Otavio Castro	11-8-1993	Brasil
+1280	Davi Lucas da Mata	26-2-2003	Italia
+1281	Joao Teixeira	1-8-2001	Espanha
+1282	Kamilly Duarte	9-6-2001	Alemanha
+1283	Emanuella Barbosa	17-4-1997	Estados Unidos
+1284	Maysa Ferreira	6-8-1997	Brasil
+1285	Maria Fernanda da Costa	28-1-2000	Franca
+1286	Alicia Freitas	28-8-1994	Argentina
+1287	Luana Farias	21-4-1992	Franca
+1288	Rafael Correia	8-11-1998	Portugal
+1289	Manuela da Luz	9-8-2001	Estados Unidos
+1290	Caue Farias	2-2-1996	Portugal
+1291	Joao Lucas Peixoto	23-4-1994	Argentina
+1292	Joao Freitas	18-2-1993	Canada
+1293	Lara Melo	6-12-2001	Japao
+1294	Renan Peixoto	29-5-2001	Espanha
+1295	Raquel Azevedo	2-6-1991	Brasil
+1296	Marcela Rodrigues	18-3-1994	Estados Unidos
+1297	Joao Guilherme Fernandes	11-8-2002	Alemanha
+1298	Marcos Vinicius Azevedo	18-12-2003	Franca
+1299	Cecilia da Cruz	17-11-1999	Italia
+1300	Luna Silveira	18-10-2002	Alemanha
+1301	Fernanda Pinto	24-2-1994	Italia
+1302	Vitor Hugo Oliveira	2-12-1995	Japao
+1303	Joana Rezende	5-2-1999	Espanha
+1304	Ana Clara Mendes	3-4-1996	Franca
+1305	Mariana Costela	27-4-2000	Espanha
+1306	Eloah Alves	1-1-1997	Brasil
+1307	Julia da Mota	15-10-2001	Canada
+1308	Natalia Viana	1-6-1991	Franca
+1309	Marcela Carvalho	21-3-1994	Estados Unidos
+1310	Anthony Pires	14-7-1990	Brasil
+1311	Leandro Novaes	24-8-2003	Brasil
+1312	Kevin Nascimento	25-10-1998	Canada
+1313	Pedro Henrique da Paz	4-9-1991	Estados Unidos
+1314	Gabriel Costela	23-10-1997	Japao
+1315	Davi Lucca Dias	20-9-2002	Espanha
+1316	Amanda Goncalves	26-7-1993	Italia
+1317	Emanuel Barros	3-11-1992	Estados Unidos
+1318	Anthony Alves	23-5-1998	Franca
+1319	Gabrielly Mendes	17-1-1993	Argentina
+1320	Marcelo da Luz	14-4-1991	Alemanha
+1321	Ana Julia Nogueira	2-3-2000	Estados Unidos
+1322	Maria Fernanda das Neves	28-5-1992	Alemanha
+1323	Maria Fernanda Rezende	23-11-1990	Japao
+1324	Gustavo Henrique da Mota	9-9-2002	Portugal
+1325	Luna Moreira	27-11-1997	Estados Unidos
+1326	Daniel das Neves	16-6-2000	Italia
+1327	Yasmin da Cruz	4-9-1999	Espanha
+1328	Joao Gabriel Dias	13-3-1992	Brasil
+1329	Ana Julia Porto	3-2-1999	Japao
+1330	Sarah Cardoso	26-9-1995	Franca
+1331	Isabel Costa	23-10-2000	Canada
+1332	Bianca Duarte	10-10-1990	Espanha
+1333	Joao Vitor Costela	20-1-2002	Argentina
+1334	Julia Almeida	25-1-1999	Alemanha
+1335	Pedro Lucas Araujo	15-4-1992	Brasil
+1336	Francisco da Cruz	7-5-1998	Estados Unidos
+1337	Nathan Peixoto	7-5-1995	Canada
+1338	Maria Alice Caldeira	15-2-1993	Argentina
+1339	Alexandre da Cruz	1-5-2003	Argentina
+1340	Vicente Gomes	21-11-1996	Canada
+1341	Julia Fernandes	5-7-1992	Alemanha
+1342	Gabriela Almeida	21-2-1995	Argentina
+1343	Ana Julia Nogueira	14-4-1996	Franca
+1344	Valentina Moraes	13-3-1992	Italia
+1345	Luiz Otavio Moreira	23-12-2002	Alemanha
+1346	Nicole Duarte	23-11-1995	Franca
+1347	Sarah Melo	29-2-2000	Italia
+1348	Barbara da Paz	27-7-1995	Estados Unidos
+1349	Francisco Ferreira	23-5-1995	Franca
+1350	Cecilia Pereira	9-10-1991	Japao
+1351	Stella Rodrigues	3-10-1998	Canada
+1352	Leandro Lima	28-1-2001	Portugal
+1353	Thiago Correia	22-11-2003	Alemanha
+1354	Ana Luiza Costa	23-11-2000	Brasil
+1355	Lais da Luz	2-5-2004	Italia
+1356	Giovanna Ribeiro	16-2-2002	Argentina
+1357	Gabriela da Luz	5-9-1990	Estados Unidos
+1358	Eduarda Mendes	28-4-2001	Espanha
+1359	Lucas Gabriel Novaes	26-8-2001	Portugal
+1360	Diogo Peixoto	8-10-2004	Estados Unidos
+1361	Agatha Farias	27-11-1998	Argentina
+1362	Antonio Correia	11-1-1999	Brasil
+1363	Rodrigo da Rocha	15-2-1991	Brasil
+1364	Catarina Azevedo	20-5-1995	Portugal
+1365	Juliana Castro	13-7-1994	Espanha
+1366	Maria Sophia Sales	10-1-2003	Japao
+1367	Eduarda Nunes	4-8-2004	Alemanha
+1368	Agatha Jesus	30-7-2002	Alemanha
+1369	Joana Araujo	19-7-1994	Argentina
+1370	Maria Vitoria Moura	18-7-2002	Portugal
+1371	Kamilly Alves	1-2-1995	Estados Unidos
+1372	Diego da Mota	21-7-1997	Canada
+1373	Maria Vitoria Moura	5-11-1999	Alemanha
+1374	Ana Vitoria Cardoso	21-11-1995	Japao
+1375	Eduardo Mendes	30-2-1997	Alemanha
+1376	Lucas Gabriel da Paz	14-7-1993	Espanha
+1377	Erick Ramos	22-10-2004	Brasil
+1378	Vitor Hugo Silva	5-12-1994	Argentina
+1379	Lucas Gabriel Silva	28-3-2004	Estados Unidos
+1380	Daniela da Mota	16-2-1997	Alemanha
+1381	Joao Pedro Mendes	15-8-1997	Brasil
+1382	Ana Carolina Fogaca	15-1-1996	Estados Unidos
+1383	Davi Lucas Monteiro	19-12-2000	Brasil
+1384	Valentina Monteiro	18-2-2004	Argentina
+1385	Enzo Gabriel da Rocha	15-7-1993	Brasil
+1386	Andre Jesus	3-5-1990	Italia
+1387	Amanda da Rocha	17-3-2002	Italia
+1388	Caue da Luz	20-10-2003	Italia
+1389	Marcelo Goncalves	7-1-2002	Espanha
+1390	Barbara da Rosa	14-9-1997	Estados Unidos
+1391	Luiz Gustavo Jesus	1-2-1994	Alemanha
+1392	Ana Martins	16-12-2000	Canada
+1393	Davi Lucca das Neves	20-9-1994	Japao
+1394	Yasmin Costa	5-7-1995	Italia
+1395	Emanuella Fogaca	16-9-1998	Espanha
+1396	Danilo Porto	30-1-2004	Espanha
+1397	Carolina Fernandes	8-9-1990	Japao
+1398	Maria Clara Cunha	8-10-1993	Portugal
+1399	Pedro Miguel Rezende	5-1-2004	Estados Unidos
+1400	Lorenzo Dias	14-12-2000	Alemanha
+1401	Eduardo da Cunha	11-5-2001	Portugal
+1402	Melissa Fogaca	9-5-2000	Estados Unidos
+1403	Sophie Rezende	1-12-1998	Portugal
+1404	Otavio Alves	28-10-1994	Brasil
+1405	Ana Carolina Novaes	29-5-1992	Portugal
+1406	Luiz Gustavo Nunes	6-9-2003	Portugal
+1407	Diego Ribeiro	1-12-1995	Japao
+1408	Enrico Aragao	24-11-1998	Canada
+1409	Alicia Correia	4-12-1997	Franca
+1410	Marcelo Nascimento	3-10-1990	Italia
+1411	Maria Eduarda Dias	17-9-1992	Japao
+1412	Gabriela Rezende	16-10-2001	Canada
+1413	Paulo Jesus	4-12-1994	Argentina
+1414	Diogo Mendes	14-1-1995	Estados Unidos
+1415	Pietra da Rosa	30-10-1999	Portugal
+1416	Guilherme Jesus	10-9-1999	Portugal
+1417	Fernando Correia	8-4-1992	Brasil
+1418	Joao Vitor Lima	13-8-1990	Brasil
+1419	Ana Clara da Rocha	29-3-1991	Brasil
+1420	Raquel Caldeira	3-7-2004	Argentina
+1421	Luna Souza	24-5-2002	Franca
+1422	Murilo Pereira	10-11-1997	Brasil
+1423	Levi Jesus	2-3-1990	Canada
+1424	Alexandre Novaes	13-1-1991	Espanha
+1425	Laura Lopes	15-4-1990	Canada
+1426	Rafael Duarte	29-3-1993	Italia
+1427	Daniela Correia	3-7-1997	Italia
+1428	Emanuelly Nascimento	21-3-1999	Espanha
+1429	Davi Lucca Rocha	6-4-2002	Brasil
+1430	Maria Cecilia Gomes	14-3-1990	Franca
+1431	Igor Novaes	8-12-1992	Brasil
+1432	Clarice da Mata	3-1-2003	Espanha
+1433	Enzo das Neves	9-1-1998	Portugal
+1434	Raul Jesus	6-7-1998	Japao
+1435	Lucca Carvalho	6-7-1992	Argentina
+1436	Juliana Rezende	24-6-1993	Canada
+1437	Calebe da Rocha	4-7-1992	Franca
+1438	Clarice Ramos	6-1-2000	Franca
+1439	Sarah Costa	19-7-1995	Italia
+1440	Ana Julia Nunes	25-9-1995	Espanha
+1441	Laura da Conceicao	29-10-1994	Alemanha
+1442	Igor da Costa	25-11-1991	Japao
+1443	Joao Miguel Rezende	22-6-2004	Brasil
+1444	Joao Guilherme Pereira	14-4-1999	Franca
+1445	Mariane Monteiro	14-6-1997	Estados Unidos
+1446	Raul da Paz	6-10-1990	Brasil
+1447	Joaquim da Luz	7-12-1994	Brasil
+1448	Diogo Cardoso	19-6-1999	Espanha
+1449	Maria Eduarda Monteiro	13-4-2001	Italia
+1450	Ana Laura Dias	18-4-1991	Alemanha
+1451	Emanuelly Carvalho	8-3-1999	Estados Unidos
+1452	Lucca Alves	13-6-1998	Brasil
+1453	Thales Barbosa	6-12-1994	Canada
+1454	Enzo Gabriel Pires	21-10-2003	Argentina
+1455	Maria Julia Araujo	16-7-1990	Canada
+1456	Marcelo Gomes	5-12-2004	Canada
+1457	Maria Luiza Fogaca	21-11-1990	Alemanha
+1458	Vitoria Moura	20-2-1993	Japao
+1459	Yasmin Rodrigues	26-6-2003	Japao
+1460	Diogo Goncalves	21-6-1994	Brasil
+1461	Carlos Eduardo Freitas	15-6-1994	Alemanha
+1462	Bernardo Gomes	1-10-1999	Canada
+1463	Maria Eduarda Caldeira	6-8-1993	Argentina
+1464	Rebeca Lopes	7-7-1996	Japao
+1465	Heitor Barbosa	13-5-1997	Italia
+1466	Levi Ribeiro	14-8-2004	Estados Unidos
+1467	Maria Eduarda da Cruz	7-1-1992	Japao
+1468	Ana Sophia da Mata	18-7-1992	Espanha
+1469	Joao Lucas Rezende	27-6-2002	Alemanha
+1470	Otavio Costela	24-1-1992	Argentina
+1471	Renan Costela	12-1-1990	Japao
+1472	Miguel Pires	24-8-1997	Argentina
+1473	Rafael Caldeira	30-9-2003	Italia
+1474	Isadora Barbosa	30-10-1992	Franca
+1475	Heloisa Pereira	26-1-1992	Canada
+1476	Carlos Eduardo Mendes	15-6-2002	Espanha
+1477	Isis da Conceicao	6-12-1993	Brasil
+1478	Danilo Aragao	9-11-1995	Franca
+1479	Maria Fernanda Silva	19-1-2001	Portugal
+1480	Isabella Ramos	7-5-1999	Estados Unidos
+1481	Maria Luiza Rocha	4-10-2003	Estados Unidos
+1482	Isadora Costela	20-7-2003	Estados Unidos
+1483	Amanda Ribeiro	11-9-1998	Italia
+1484	Alana Cardoso	29-6-2000	Espanha
+1485	Maria Sophia Dias	24-1-2000	Argentina
+1486	Stella Souza	14-1-2002	Estados Unidos
+1487	Fernando Pires	6-1-1991	Italia
+1488	Beatriz Barros	7-3-2004	Brasil
+1489	Davi Porto	29-2-2002	Italia
+1490	Kevin Novaes	8-8-1992	Japao
+1491	Joao Lucas Novaes	3-8-1997	Canada
+1492	Larissa Costa	4-2-2004	Alemanha
+1493	Lucca Fogaca	10-11-1990	Estados Unidos
+1494	Maysa Monteiro	25-10-2001	Franca
+1495	Amanda Pinto	1-4-1992	Espanha
+1496	Kaique Dias	12-4-1999	Estados Unidos
+1497	Joao Felipe Araujo	27-6-2000	Alemanha
+1498	Davi Luiz da Luz	27-5-1991	Argentina
+1499	Juan Santos	30-3-2003	Brasil
+1500	Marina Barros	15-5-1990	Italia
+1501	Luiz Felipe Rocha	16-12-1999	Italia
+1502	Alana Pereira	16-12-1990	Italia
+1503	Danilo Fogaca	30-2-2002	Portugal
+1504	Danilo da Rocha	27-2-2001	Espanha
+1505	Marina da Rosa	28-1-1999	Japao
+1506	Marcos Vinicius Novaes	5-3-1993	Brasil
+1507	Vicente Costa	5-5-2001	Espanha
+1508	Lais Carvalho	26-4-1999	Estados Unidos
+1509	Caue Rezende	19-12-1990	Canada
+1510	Luna Peixoto	16-5-1990	Canada
+1511	Alexandre Mendes	30-2-2003	Argentina
+1512	Ana Sophia Melo	3-9-2004	Brasil
+1513	Yuri Cardoso	5-2-1991	Alemanha
+1514	Eduarda Lopes	30-11-1992	Portugal
+1515	Rafaela da Cruz	23-2-2003	Portugal
+1516	Marcela da Rosa	6-8-2000	Estados Unidos
+1517	Pietra Goncalves	3-11-2003	Canada
+1518	Maria Fernanda Lopes	8-4-2000	Canada
+1519	Camila da Costa	9-11-1993	Japao
+1520	Nathan Novaes	2-12-1990	Japao
+1521	Maria Alice Teixeira	9-12-1990	Canada
+1522	Enrico Monteiro	21-8-1992	Brasil
+1523	Alicia Viana	21-3-1996	Portugal
+1524	Elisa Lima	6-7-2003	Canada
+1525	Paulo Novaes	23-3-1998	Portugal
+1526	Thiago da Cruz	16-8-1990	Italia
+1527	Lavinia Barbosa	12-7-1996	Argentina
+1528	Eduarda Lima	17-6-1995	Portugal
+1529	Rodrigo Campos	21-4-2003	Espanha
+1530	Maysa da Luz	26-7-1997	Franca
+1531	Pietra da Luz	22-1-1991	Franca
+1532	Maria Vitoria da Luz	26-2-2002	Portugal
+1533	Ana Sophia Rezende	5-10-1994	Japao
+1534	Kaique da Rocha	23-8-1990	Brasil
+1535	Vitor Gabriel Peixoto	28-2-1990	Japao
+1536	Sabrina Peixoto	30-1-1999	Portugal
+1537	Thomas Novaes	19-12-1991	Argentina
+1538	Luiz Fernando da Luz	29-3-1996	Franca
+1539	Vinicius Caldeira	4-7-1992	Portugal
+1540	Davi Duarte	14-2-1993	Alemanha
+1541	Bryan Rocha	30-12-1996	Brasil
+1542	Alice Correia	15-8-2003	Italia
+1543	Esther Costa	19-9-1993	Canada
+1544	Clara Sales	23-11-1997	Espanha
+1545	Pietra Cunha	3-8-2000	Franca
+1546	Noah Pires	8-12-1999	Portugal
+1547	Luana Lima	10-9-1994	Japao
+1548	Diego Fogaca	5-9-2001	Canada
+1549	Raquel Silva	24-9-1991	Portugal
+1550	Theo Peixoto	18-3-1991	Portugal
+1551	Mariane Mendes	29-1-1993	Espanha
+1552	Julia Costa	9-1-2003	Brasil
+1553	Fernanda da Rosa	7-4-2001	Canada
+1554	Isaac Fogaca	20-2-1993	Argentina
+1555	Lara Campos	28-6-1995	Portugal
+1556	Caue Sales	2-9-1993	Italia
+1557	Vitor Gabriel Nogueira	22-1-1996	Brasil
+1558	Ana Julia Goncalves	20-4-2003	Italia
+1559	Clara Costa	3-12-1998	Japao
+1560	Ana da Cunha	8-3-1997	Espanha
+1561	Maysa da Mota	6-7-1998	Franca
+1562	Eduardo Souza	27-5-2004	Espanha
+1563	Maysa Nogueira	19-2-2004	Espanha
+1564	Isaac da Rocha	20-2-2001	Brasil
+1565	Lavinia Monteiro	4-1-1999	Brasil
+1566	Diego Pereira	16-3-2004	Canada
+1567	Ana Luiza Almeida	16-9-1997	Argentina
+1568	Levi Caldeira	10-8-1996	Espanha
+1569	Elisa Lopes	7-2-1992	Brasil
+1570	Davi Luiz da Cruz	29-12-1994	Italia
+1571	Isabel Goncalves	7-8-1992	Estados Unidos
+1572	Maria Fernanda Duarte	27-6-1994	Japao
+1573	Joaquim Nogueira	8-12-1992	Brasil
+1574	Gabriela da Luz	25-4-1994	Espanha
+1575	Larissa Moura	2-10-1996	Franca
+1576	Joao Miguel da Luz	10-4-2002	Japao
+1577	Isadora Silveira	29-6-2004	Canada
+1578	Diego Caldeira	20-2-2004	Espanha
+1579	Maria Eduarda Santos	5-4-2003	Franca
+1580	Natalia Ramos	28-8-1998	Japao
+1581	Anthony Barbosa	11-5-1995	Estados Unidos
+1582	Enzo Gabriel Ribeiro	8-10-2004	Espanha
+1583	Arthur Cavalcanti	2-7-1995	Alemanha
+1584	Murilo Cardoso	15-4-1995	Franca
+1585	Manuela Costela	17-2-2003	Estados Unidos
+1586	Pietro Cavalcanti	10-4-1992	Japao
+1587	Beatriz Monteiro	16-6-2002	Alemanha
+1588	Sophie Teixeira	12-3-1998	Alemanha
+1589	Renan Nogueira	24-7-1993	Canada
+1590	Leandro da Mata	8-5-1994	Italia
+1591	Caue da Paz	15-10-2003	Canada
+1592	Isaac Almeida	5-1-1994	Franca
+1593	Rodrigo da Conceicao	7-2-1995	Brasil
+1594	Matheus Dias	16-10-1997	Franca
+1595	Vinicius Moraes	2-9-1995	Estados Unidos
+1596	Lucas Gabriel Costela	6-6-2003	Italia
+1597	Ana Julia Silveira	1-1-2001	Franca
+1598	Renan Vieira	26-1-1990	Canada
+1599	Lorena Nunes	9-6-1999	Canada
+1600	Isaac Teixeira	7-12-1997	Brasil
+1601	Pedro Miguel da Mota	9-9-2003	Italia
+1602	Luiz Gustavo Costa	3-8-2000	Alemanha
+1603	Diogo Silva	13-10-1999	Canada
+1604	Stephany Moreira	7-8-1992	Espanha
+1605	Maria Vitoria Farias	2-9-1999	Franca
+1606	Luna da Cunha	9-7-1992	Canada
+1607	Marina Pinto	8-11-2000	Argentina
+1608	Livia da Paz	25-5-1993	Italia
+1609	Bruno Freitas	6-11-1995	Alemanha
+1610	Amanda Barros	15-10-1996	Espanha
+1611	Emanuel Cavalcanti	19-10-2003	Espanha
+1612	Lavinia Silveira	17-8-1995	Canada
+1613	Fernando Rocha	16-7-2003	Estados Unidos
+1614	Paulo Santos	8-2-2003	Italia
+1615	Ana Laura Cunha	13-3-1994	Espanha
+1616	Arthur Fernandes	19-5-1993	Alemanha
+1617	Amanda Nunes	28-12-1990	Canada
+1618	Pietra da Rosa	14-7-1993	Portugal
+1619	Enrico Barros	13-3-2003	Franca
+1620	Joao Miguel Lopes	26-4-1997	Canada
+1621	Lavinia Lopes	21-5-1999	Argentina
+1622	Pedro Henrique Sales	4-4-1994	Portugal
+1623	Pietro Pires	12-1-1999	Canada
+1624	Bianca Moraes	6-11-2004	Espanha
+1625	Davi Lucca Farias	20-10-1999	Japao
+1626	Maria Sophia Pereira	23-10-1999	Espanha
+1627	Eduarda Cardoso	2-6-1990	Franca
+1628	Isabella Moura	18-3-1998	Alemanha
+1629	Antonio Sales	26-3-2004	Japao
+1630	Levi Silveira	27-4-1995	Estados Unidos
+1631	Melissa Fogaca	29-7-2004	Alemanha
+1632	Maria Jesus	21-5-1998	Portugal
+1633	Ian Pires	15-2-1995	Franca
+1634	Maria Vitoria da Mata	16-1-2001	Canada
+1635	Bruna Silveira	30-5-1998	Franca
+1636	Joao Felipe Pinto	3-6-1994	Espanha
+1637	Guilherme Nunes	30-9-1991	Argentina
+1638	Igor da Mata	27-5-2000	Estados Unidos
+1639	Carolina Freitas	6-8-1992	Brasil
+1640	Bianca Silveira	16-1-1997	Argentina
+1641	Sarah Alves	28-3-2002	Portugal
+1642	Larissa Azevedo	14-3-1994	Portugal
+1643	Natalia da Conceicao	11-4-2000	Portugal
+1644	Bernardo Lima	26-8-2004	Portugal
+1645	Enrico Cardoso	11-11-2002	Italia
+1646	Agatha Ferreira	11-1-1991	Alemanha
+1647	Anthony Martins	23-6-2002	Argentina
+1648	Gustavo Porto	4-6-1994	Argentina
+1649	Olivia Freitas	10-5-2000	Estados Unidos
+1650	Julia Pires	27-8-1998	Portugal
+1651	Joana Porto	9-10-1998	Canada
+1652	Ian Novaes	17-6-1999	Portugal
+1653	Elisa Moura	19-2-1990	Franca
+1654	Vitor Gabriel Rodrigues	7-2-1996	Portugal
+1655	Bruna Teixeira	28-8-1992	Japao
+1656	Gustavo Henrique Farias	18-6-2002	Estados Unidos
+1657	Giovanna da Mota	29-4-2002	Espanha
+1658	Kaique Costa	20-5-1990	Alemanha
+1659	Livia Correia	25-11-2000	Alemanha
+1660	Kamilly Porto	29-2-1996	Brasil
+1661	Erick Nogueira	22-8-1999	Alemanha
+1662	Fernando Campos	2-7-2000	Espanha
+1663	Yuri Azevedo	9-9-1990	Franca
+1664	Luigi Pires	12-12-2004	Brasil
+1665	Stella da Cunha	4-8-1997	Canada
+1666	Davi Luiz Duarte	25-11-2001	Alemanha
+1667	Ana Clara Azevedo	8-5-1997	Estados Unidos
+1668	Guilherme das Neves	6-11-1991	Italia
+1669	Gabrielly Dias	10-8-1995	Espanha
+1670	Raquel Nogueira	20-8-1990	Portugal
+1671	Maria Cecilia Nascimento	20-5-1999	Alemanha
+1672	Julia da Mata	14-4-1999	Espanha
+1673	Calebe das Neves	2-1-2000	Italia
+1674	Rebeca Alves	16-1-1990	Alemanha
+1675	Thiago Viana	10-3-2003	Alemanha
+1676	Bianca Ferreira	25-12-1997	Brasil
+1677	Lavinia Sales	8-10-1993	Estados Unidos
+1678	Maria Clara Farias	16-12-1993	Japao
+1679	Vitor Cardoso	27-11-1991	Franca
+1680	Isis Silva	27-2-1993	Italia
+1681	Luna Cardoso	30-8-1998	Espanha
+1682	Livia Silveira	13-3-1990	Canada
+1683	Arthur Peixoto	20-7-1994	Canada
+1684	Emanuelly Melo	17-8-1992	Japao
+1685	Pedro Lucas Fernandes	16-5-2000	Espanha
+1686	Samuel Barros	23-4-1998	Italia
+1687	Augusto Souza	13-1-1991	Italia
+1688	Francisco Silva	7-3-1992	Portugal
+1689	Nicolas Porto	2-2-1995	Brasil
+1690	Lorenzo da Conceicao	25-1-2004	Argentina
+1691	Ian Moura	25-3-1992	Argentina
+1692	Maria Clara Freitas	8-6-1990	Franca
+1693	Joao Guilherme Farias	22-6-1990	Franca
+1694	Maria Eduarda Oliveira	15-12-1997	Argentina
+1695	Erick Rezende	25-5-1998	Canada
+1696	Lorena Pinto	8-11-1993	Italia
+1697	Marcos Vinicius da Rocha	27-8-1997	Alemanha
+1698	Valentina Fogaca	7-11-1996	Japao
+1699	Cecilia Rezende	8-7-1996	Japao
+1700	Juliana Moreira	3-8-2003	Estados Unidos
+1701	Bernardo Pires	18-11-2004	Brasil
+1702	Ana Teixeira	18-1-1992	Canada
+1703	Isaac Cardoso	3-12-2000	Estados Unidos
+1704	Benjamin da Mata	13-4-2003	Japao
+1705	Levi Moura	3-10-2001	Argentina
+1706	Luiz Felipe da Conceicao	26-11-1999	Espanha
+1707	Sarah Carvalho	20-10-1990	Espanha
+1708	Marcelo Rocha	12-8-1994	Estados Unidos
+1709	Isis da Mata	6-5-2000	Argentina
+1710	Rodrigo Silva	30-8-2002	Estados Unidos
+1711	Maria Eduarda Cardoso	3-10-2003	Canada
+1712	Leticia Rocha	20-9-2003	Japao
+1713	Davi Lucca Rodrigues	23-10-1998	Espanha
+1714	Pietra Nascimento	20-1-1990	Argentina
+1715	Erick Fernandes	13-3-1998	Brasil
+1716	Joao Gabriel Gomes	16-8-1994	Japao
+1717	Matheus da Rocha	16-6-2002	Italia
+1718	Caua Vieira	18-3-1997	Franca
+1719	Joao Miguel Campos	14-4-1995	Franca
+1720	Raul Mendes	26-10-1996	Portugal
+1721	Bruna Fogaca	12-8-1992	Canada
+1722	Ana Livia Alves	22-11-2002	Portugal
+1723	Lucas da Rosa	1-11-1994	Estados Unidos
+1724	Isabella Peixoto	30-9-1991	Argentina
+1725	Marina Costa	25-5-1992	Argentina
+1726	Lucas Alves	10-4-1990	Brasil
+1727	Larissa Pereira	20-6-1991	Brasil
+1728	Augusto da Luz	19-6-2002	Brasil
+1729	Lais Cardoso	18-5-2003	Franca
+1730	Yasmin da Paz	7-7-1992	Brasil
+1731	Danilo Gomes	9-5-1995	Estados Unidos
+1732	Gustavo Henrique Rocha	22-4-2002	Canada
+1733	Clarice da Cruz	3-6-2002	Espanha
+1734	Gabriela Cavalcanti	19-9-2003	Canada
+1735	Samuel Martins	27-11-1993	Italia
+1736	Antonio Alves	23-4-1994	Argentina
+1737	Fernando Viana	30-1-1992	Portugal
+1738	Vitor da Cunha	11-5-2001	Argentina
+1739	Vinicius Pereira	17-12-1995	Franca
+1740	Mariana da Mota	28-7-2001	Canada
+1741	Samuel da Mata	16-8-1997	Argentina
+1742	Vitoria da Conceicao	11-4-2000	Argentina
+1743	Nina Dias	18-9-2004	Estados Unidos
+1744	Thomas Pinto	20-1-2001	Italia
+1745	Caroline Alves	21-11-1996	Estados Unidos
+1746	Larissa Alves	17-4-2001	Italia
+1747	Leticia Cunha	5-1-2001	Estados Unidos
+1748	Ana Clara Cardoso	30-6-2004	Japao
+1749	Guilherme Sales	7-12-2002	Argentina
+1750	Alexia Fogaca	28-4-2002	Portugal
+1751	Francisco Fernandes	10-1-1994	Alemanha
+1752	Bianca Ramos	22-11-2003	Japao
+1753	Fernanda Farias	1-9-2002	Italia
+1754	Ana Julia Souza	19-2-2004	Italia
+1755	Ana Costela	17-10-2001	Estados Unidos
+1756	Caio Teixeira	6-1-1994	Espanha
+1757	Kevin das Neves	22-2-2002	Italia
+1758	Emanuella Santos	28-4-2002	Japao
+1759	Vinicius Correia	29-10-1991	Canada
+1760	Davi Luiz Fogaca	17-6-1991	Estados Unidos
+1761	Paulo Carvalho	10-7-1993	Portugal
+1762	Maysa Moreira	19-1-1993	Canada
+1763	Agatha Azevedo	15-6-1991	Japao
+1764	Carlos Eduardo das Neves	20-1-2002	Canada
+1765	Alice Lima	10-3-1998	Canada
+1766	Enrico Lima	6-1-2000	Alemanha
+1767	Mariana Santos	21-3-2003	Canada
+1768	Erick da Cunha	17-8-1992	Franca
+1769	Enzo Gabriel Silva	7-3-1994	Brasil
+1770	Lara Correia	27-11-1991	Brasil
+1771	Emanuel Nunes	12-7-2001	Brasil
+1772	Fernando Costela	4-9-1997	Canada
+1773	Pietro Mendes	16-11-1990	Brasil
+1774	Ana Teixeira	6-7-2003	Canada
+1775	Vinicius Porto	11-11-1996	Portugal
+1776	Stella Araujo	23-5-2004	Espanha
+1777	Joao Gabriel da Rosa	24-2-2000	Espanha
+1778	Isabella da Rosa	16-10-1992	Espanha
+1779	Maite Moura	8-12-2002	Portugal
+1780	Milena da Paz	5-11-1998	Brasil
+1781	Amanda Santos	1-12-2002	Canada
+1782	Esther Silva	25-11-1996	Portugal
+1783	Joao Lucas Cardoso	1-5-2004	Espanha
+1784	Sarah Duarte	14-12-1996	Portugal
+1785	Gustavo Henrique Porto	19-8-1991	Estados Unidos
+1786	Ana Julia Nunes	25-6-1999	Japao
+1787	Lucas Gabriel Araujo	5-10-1998	Argentina
+1788	Kamilly Pires	2-1-1990	Estados Unidos
+1789	Bruno Lopes	7-9-1999	Italia
+1790	Marcela Novaes	13-3-2004	Franca
+1791	Joao Pedro Pires	2-8-2003	Argentina
+1792	Benjamin da Rosa	28-9-2002	Argentina
+1793	Augusto Freitas	11-12-1991	Japao
+1794	Ana Sophia Nogueira	30-6-1995	Japao
+1795	Henrique Pinto	28-11-1991	Canada
+1796	Luiz Felipe da Costa	2-12-1999	Japao
+1797	Matheus Nogueira	14-7-1999	Canada
+1798	Leonardo Cardoso	2-3-2001	Brasil
+1799	Isaac Ferreira	17-1-1997	Espanha
+1800	Marcelo Martins	16-8-1998	Estados Unidos
+1801	Thomas Barros	26-5-2004	Italia
+1802	Elisa da Costa	19-9-1992	Franca
+1803	Catarina Rezende	12-12-1990	Espanha
+1804	Daniel Nogueira	1-8-1998	Alemanha
+1805	Joao Guilherme da Paz	18-12-1990	Franca
+1806	Catarina da Rosa	30-12-1993	Espanha
+1807	Erick Dias	18-12-2004	Estados Unidos
+1808	Lorenzo das Neves	13-7-2000	Brasil
+1809	Joao Guilherme Pinto	4-4-1991	Estados Unidos
+1810	Sarah Costela	21-1-2000	Argentina
+1811	Davi Luiz Moreira	3-11-2001	Japao
+1812	Stephany Cavalcanti	8-6-1995	Portugal
+1813	Isabelly Martins	14-5-2002	Italia
+1814	Lucca Fernandes	21-9-2004	Alemanha
+1815	Joana Campos	9-3-1999	Brasil
+1816	Thiago Souza	20-3-1991	Canada
+1817	Calebe Costa	20-3-2002	Japao
+1818	Alexandre da Mata	23-3-1994	Alemanha
+1819	Gustavo Henrique Barbosa	27-6-2000	Italia
+1820	Eduarda Gomes	11-2-2001	Portugal
+1821	Heloisa Pinto	7-4-1992	Argentina
+1822	Diogo Martins	2-1-2004	Estados Unidos
+1823	Lais Monteiro	30-6-2000	Estados Unidos
+1824	Rodrigo Ribeiro	3-3-2003	Franca
+1825	Pedro Moraes	7-6-2004	Italia
+1826	Maria Eduarda Ramos	28-9-1990	Italia
+1827	Joaquim Moraes	25-1-1995	Canada
+1828	Joaquim das Neves	29-2-2003	Espanha
+1829	Brenda da Mata	30-10-2004	Alemanha
+1830	Ana Julia Viana	8-8-1990	Espanha
+1831	Nina Pereira	19-8-2001	Portugal
+1832	Joana Correia	3-4-2004	Alemanha
+1833	Leticia da Cunha	25-1-2003	Canada
+1834	Luna Correia	23-2-2000	Portugal
+1835	Luiza Correia	17-12-2000	Japao
+1836	Sofia Fogaca	19-12-1994	Canada
+1837	Luna Moura	13-2-2004	Portugal
+1838	Joao Pedro Ferreira	8-6-1995	Japao
+1839	Yago da Paz	27-8-2000	Espanha
+1840	Lucas Moreira	28-5-1993	Japao
+1841	Pietro Pereira	30-12-1997	Canada
+1842	Henrique da Costa	3-7-1996	Estados Unidos
+1843	Lucca Nogueira	9-5-1997	Brasil
+1844	Gustavo Porto	14-11-2002	Canada
+1845	Danilo Caldeira	12-8-1998	Canada
+1846	Benjamin Silveira	26-8-1997	Portugal
+1847	Emanuel da Cunha	22-2-1993	Espanha
+1848	Nicolas Teixeira	29-8-1998	Estados Unidos
+1849	Nicole Melo	11-4-1999	Canada
+1850	Caua Caldeira	19-6-1996	Espanha
+1851	Nicolas Costela	3-7-1990	Japao
+1852	Vitor Gabriel Goncalves	30-8-1990	Estados Unidos
+1853	Antonio Souza	16-2-1998	Estados Unidos
+1854	Fernando Silva	18-9-1990	Estados Unidos
+1855	Maria Clara Freitas	26-5-1992	Portugal
+1856	Samuel Araujo	12-3-2003	Italia
+1857	Bruna Pereira	16-2-1996	Franca
+1858	Camila Carvalho	13-1-1996	Estados Unidos
+1859	Daniel Costa	19-5-1994	Canada
+1860	Stephany Moura	21-10-2003	Estados Unidos
+1861	Ana Julia Almeida	4-8-1996	Franca
+1862	Guilherme Teixeira	4-12-2000	Argentina
+1863	Murilo Fogaca	28-2-1996	Estados Unidos
+1864	Diogo Araujo	10-11-2002	Estados Unidos
+1865	Joao Lucas Souza	13-9-2001	Italia
+1866	Alice Monteiro	22-4-2000	Franca
+1867	Isabel Ramos	3-1-1996	Canada
+1868	Nathan Cavalcanti	10-3-1993	Alemanha
+1869	Daniela Castro	9-12-1990	Franca
+1870	Joao Lucas da Mota	8-11-1999	Alemanha
+1871	Marina Castro	21-12-1999	Italia
+1872	Camila Rodrigues	18-11-1993	Brasil
+1873	Otavio Duarte	5-2-1997	Franca
+1874	Nathan Cardoso	16-9-1999	Portugal
+1875	Gustavo Teixeira	22-11-1997	Franca
+1876	Levi Cardoso	9-1-2003	Espanha
+1877	Thales Souza	24-7-2001	Portugal
+1878	Davi Luiz Carvalho	11-3-1998	Japao
+1879	Enrico Santos	24-3-2001	Franca
+1880	Sophie Fernandes	15-12-1991	Brasil
+1881	Pedro Henrique da Luz	30-5-1993	Franca
+1882	Diego Ribeiro	18-10-2004	Brasil
+1883	Joao Vitor Nascimento	30-12-1997	Italia
+1884	Ana Clara Vieira	8-1-1998	Italia
+1885	Daniel Dias	17-2-1991	Franca
+1886	Larissa Silva	10-4-1995	Espanha
+1887	Sophia Costa	22-3-2004	Espanha
+1888	Brenda Campos	24-2-1995	Italia
+1889	Murilo Santos	9-7-1997	Brasil
+1890	Luiz Felipe Santos	11-8-2003	Italia
+1891	Camila Pires	2-10-1994	Espanha
+1892	Caua Rodrigues	28-2-1997	Argentina
+1893	Ana Luiza Lima	16-5-2002	Argentina
+1894	Julia Jesus	9-8-1995	Franca
+1895	Leticia Pinto	20-3-2000	Espanha
+1896	Luiza Santos	29-12-1998	Estados Unidos
+1897	Sofia Goncalves	5-1-2004	Japao
+1898	Davi Lucca Porto	18-12-2000	Argentina
+1899	Sarah Ferreira	30-1-1995	Brasil
+1900	Anthony Ramos	10-2-2003	Canada
+1901	Caroline Novaes	29-11-2004	Estados Unidos
+1902	Henrique Ribeiro	5-3-1994	Italia
+1903	Ana Laura Aragao	3-10-1990	Estados Unidos
+1904	Leonardo Nascimento	2-3-1996	Portugal
+1905	Maria Julia Pereira	16-10-1996	Estados Unidos
+1906	Clarice Campos	5-1-1990	Argentina
+1907	Gabriel Barbosa	7-11-1995	Franca
+1908	Maria Vitoria Martins	18-2-1999	Japao
+1909	Pedro Caldeira	28-9-2003	Estados Unidos
+1910	Julia Costela	24-2-1990	Canada
+1911	Alicia Teixeira	16-11-2003	Canada
+1912	Larissa Moraes	5-7-1998	Portugal
+1913	Joana Silveira	22-8-1999	Canada
+1914	Camila Cunha	29-4-1996	Japao
+1915	Valentina da Luz	11-1-1997	Portugal
+1916	Maria Luiza Rocha	19-2-1999	Italia
+1917	Melissa Rodrigues	11-9-1994	Estados Unidos
+1918	Maria Julia Oliveira	23-2-1998	Portugal
+1919	Maria Luiza Dias	22-2-1996	Japao
+1920	Ana Beatriz Barros	28-3-1990	Espanha
+1921	Otavio Pires	6-1-1993	Estados Unidos
+1922	Isis Lopes	21-4-1999	Portugal
+1923	Lucca Caldeira	28-6-1993	Estados Unidos
+1924	Carlos Eduardo Porto	4-5-2004	Portugal
+1925	Ian da Paz	29-4-1991	Japao
+1926	Joao Miguel Porto	24-7-2001	Estados Unidos
+1927	Gabriel Cardoso	3-2-1995	Estados Unidos
+1928	Larissa Ramos	11-3-1997	Espanha
+1929	Guilherme Novaes	30-6-2002	Canada
+1930	Clara Carvalho	18-1-1990	Alemanha
+1931	Lucas Gabriel Aragao	29-6-1995	Brasil
+1932	Rafael Pereira	2-6-1990	Japao
+1933	Camila Costa	1-6-1993	Brasil
+1934	Evelyn da Costa	8-12-1998	Brasil
+1935	Pietro Goncalves	8-12-1997	Japao
+1936	Ana Beatriz Moura	25-2-2001	Brasil
+1937	Pedro Lucas Carvalho	23-3-1993	Estados Unidos
+1938	Luiz Otavio Porto	24-4-1997	Estados Unidos
+1939	Gabrielly Campos	5-1-1991	Italia
+1940	Bruna Sales	1-12-1990	Brasil
+1941	Isis Costela	16-10-1993	Portugal
+1942	Miguel Rodrigues	3-11-1996	Japao
+1943	Rebeca Silveira	22-12-1992	Espanha
+1944	Eduarda Nascimento	19-7-1990	Brasil
+1945	Anthony Nogueira	25-3-1996	Argentina
+1946	Luiz Gustavo Rodrigues	19-12-2004	Italia
+1947	Gabriel Costela	14-10-1998	Alemanha
+1948	Davi Lucca Duarte	23-6-1991	Brasil
+1949	Rafaela Pires	9-10-2002	Canada
+1950	Luna Martins	5-6-2002	Estados Unidos
+1951	Maria Alice Barbosa	25-11-1996	Brasil
+1952	Samuel Barros	22-11-1995	Japao
+1953	Melissa Nunes	28-6-2002	Argentina
+1954	Augusto Oliveira	26-11-1997	Japao
+1955	Marcelo Nunes	24-10-1992	Espanha
+1956	Theo da Mota	7-3-2003	Alemanha
+1957	Larissa Dias	4-1-2002	Espanha
+1958	Caua Lima	19-9-2000	Estados Unidos
+1959	Mariane Martins	22-1-1995	Espanha
+1960	Stephany Almeida	26-7-1995	Japao
+1961	Ian Porto	21-7-2002	Brasil
+1962	Joao Miguel Vieira	23-3-2001	Japao
+1963	Igor da Mata	6-3-1995	Brasil
+1964	Rebeca Rocha	7-7-2004	Argentina
+1965	Alicia Dias	20-2-2003	Brasil
+1966	Lavinia Duarte	4-8-1995	Portugal
+1967	Luiz Felipe Dias	24-3-2001	Espanha
+1968	Alana Correia	11-4-1999	Brasil
+1969	Davi Lucca Barros	13-6-1994	Franca
+1970	Maria Vitoria Sales	3-1-1992	Franca
+1971	Pedro Henrique Azevedo	27-1-1992	Canada
+1972	Daniela Santos	15-3-1991	Argentina
+1973	Gabrielly Araujo	1-12-1999	Italia
+1974	Fernanda Nascimento	28-5-1999	Canada
+1975	Marcos Vinicius Martins	10-3-1990	Italia
+1976	Milena Sales	1-8-1993	Argentina
+1977	Joao Guilherme da Rosa	3-6-2003	Alemanha
+1978	Joao Miguel da Luz	5-11-1992	Portugal
+1979	Yasmin Viana	24-4-1996	Argentina
+1980	Gabriel Pires	8-12-1998	Canada
+1981	Leandro Silva	22-10-2001	Estados Unidos
+1982	Juan Ferreira	5-9-1999	Estados Unidos
+1983	Giovanna Pinto	23-6-1997	Estados Unidos
+1984	Marcela Teixeira	21-3-2002	Brasil
+1985	Joao Felipe Lopes	4-9-2002	Italia
+1986	Carolina Cunha	7-5-2001	Estados Unidos
+1987	Milena Fogaca	24-11-2004	Japao
+1988	Otavio Martins	20-6-1993	Canada
+1989	Heitor Cavalcanti	6-12-1998	Canada
+1990	Lorena Pinto	28-6-1992	Brasil
+1991	Julia Moraes	14-3-2004	Italia
+1992	Isabella Oliveira	2-6-1991	Portugal
+1993	Rafael Silveira	1-2-2001	Franca
+1994	Luiz Otavio Correia	11-12-1990	Italia
+1995	Yago Dias	8-11-1990	Argentina
+1996	Luiz Miguel Nunes	18-2-2003	Brasil
+1997	Maria Vitoria da Rocha	5-7-1991	Argentina
+1998	Joao Lucas Duarte	26-10-1990	Japao
+1999	Nicole Martins	28-6-1996	Japao
+2000	Leonardo da Rocha	26-12-1999	Japao
+2001	Isadora Rocha	5-4-1996	Japao
+2002	Theo Correia	18-6-1992	Canada
+2003	Gustavo Henrique Martins	7-10-1992	Italia
+2004	Caue Costela	5-4-1995	Brasil
+2005	Thales Campos	8-2-1992	Portugal
+2006	Vitor Gabriel Farias	5-9-2003	Estados Unidos
+2007	Bianca Cardoso	2-4-1995	Espanha
+2008	Alexia Moura	4-2-1993	Canada
+2009	Augusto Caldeira	25-5-1995	Argentina
+2010	Andre Viana	5-3-2000	Portugal
+2011	Isaac Teixeira	5-12-2004	Canada
+2012	Yasmin Melo	13-12-1997	Canada
+2013	Maria Clara Farias	2-11-2003	Alemanha
+2014	Carolina Porto	20-10-2001	Estados Unidos
+2015	Carlos Eduardo Ramos	20-8-1994	Japao
+2016	Gabriel Costa	13-5-1994	Japao
+2017	Larissa Silveira	17-2-1997	Espanha
+2018	Calebe Silveira	6-6-1991	Franca
+2019	Luiz Henrique Cavalcanti	12-11-1990	Alemanha
+2020	Livia Pereira	9-12-2002	Franca
+2021	Antonio Caldeira	3-8-1991	Canada
+2022	Ana Sophia Ramos	9-12-1990	Alemanha
+2023	Eduardo Rodrigues	29-10-1999	Espanha
+2024	Leonardo Lima	5-1-1997	Brasil
+2025	Olivia Rocha	13-5-1994	Canada
+2026	Luiz Felipe das Neves	3-6-2000	Estados Unidos
+2027	Diogo Viana	28-1-1996	Japao
+2028	Marcos Vinicius Almeida	14-9-1994	Japao
+2029	Lorenzo Carvalho	12-9-1992	Estados Unidos
+2030	Esther Nunes	21-4-1997	Portugal
+2031	Lucas Barros	20-8-1999	Estados Unidos
+2032	Maria Cecilia Lopes	2-7-2000	Japao
+2033	Matheus Pereira	22-6-2004	Franca
+2034	Luiz Felipe Barros	14-11-2000	Franca
+2035	Amanda Pereira	23-2-1997	Japao
+2036	Luigi Azevedo	18-9-1999	Portugal
+2037	Heloisa Pereira	10-9-1995	Italia
+2038	Catarina da Rocha	2-8-1997	Portugal
+2039	Ana Vitoria Sales	4-12-1994	Italia
+2040	Maysa Nunes	3-9-2001	Estados Unidos
+2041	Emanuella da Paz	1-10-2003	Portugal
+2042	Matheus Viana	16-11-1991	Estados Unidos
+2043	Yasmin Novaes	25-8-1996	Japao
+2044	Caua Nogueira	22-7-2000	Alemanha
+2045	Esther Teixeira	2-8-1991	Brasil
+2046	Nathan Novaes	24-5-1991	Franca
+2047	Ana Beatriz Dias	4-12-2000	Canada
+2048	Carlos Eduardo Oliveira	17-8-1996	Alemanha
+2049	Luiz Felipe Nunes	1-4-1996	Espanha
+2050	Davi da Mata	27-10-1997	Alemanha
+2051	Ian Lopes	7-11-1993	Italia
+2052	Benjamin Novaes	12-8-2004	Espanha
+2053	Benicio Farias	26-1-1992	Franca
+2054	Catarina Fernandes	22-2-2002	Argentina
+2055	Leandro da Mata	5-11-1995	Espanha
+2056	Maria Fernanda Pires	2-1-1994	Brasil
+2057	Maria Alice Cardoso	23-12-1995	Alemanha
+2058	Davi Lucca Fernandes	11-6-2002	Italia
+2059	Lucca Moura	28-7-1998	Brasil
+2060	Renan Porto	27-12-1991	Italia
+2061	Laura Novaes	15-3-1991	Espanha
+2062	Daniela Lima	9-8-1994	Alemanha
+2063	Larissa Costela	1-8-1995	Brasil
+2064	Yasmin Fogaca	9-11-1997	Portugal
+2065	Joao Guilherme Barros	15-2-2003	Alemanha
+2066	Maria Eduarda Almeida	9-4-1991	Estados Unidos
+2067	Marcos Vinicius Rocha	20-1-1991	Estados Unidos
+2068	Sophie Costa	28-7-1995	Canada
+2069	Gustavo Pires	14-9-2003	Argentina
+2070	Joao Mendes	13-5-2000	Portugal
+2071	Rafaela Alves	25-4-1998	Alemanha
+2072	Valentina Mendes	27-7-1996	Alemanha
+2073	Livia Vieira	6-2-1997	Estados Unidos
+2074	Emanuella Silveira	14-4-1992	Estados Unidos
+2075	Vinicius Rocha	27-10-2002	Franca
+2076	Bianca da Paz	26-2-1991	Alemanha
+2077	Nina Fogaca	29-1-1996	Alemanha
+2078	Maysa Dias	27-4-1995	Canada
+2079	Maria Sophia Carvalho	29-12-2003	Japao
+2080	Luna Farias	3-2-2002	Italia
+2081	Ana Clara Castro	18-8-2004	Espanha
+2082	Renan Castro	21-2-1996	Argentina
+2083	Maria Luiza Goncalves	22-11-1998	Estados Unidos
+2084	Joao Gabriel Rezende	8-3-1999	Canada
+2085	Noah Mendes	9-11-2000	Japao
+2086	Sabrina Lima	25-11-1998	Japao
+2087	Joao Lucas Ramos	7-3-1994	Canada
+2088	Antonio Castro	27-5-1990	Espanha
+2089	Arthur Mendes	2-5-2000	Portugal
+2090	Pedro Jesus	27-1-2003	Canada
+2091	Clara Cavalcanti	13-6-2004	Japao
+2092	Sofia Lima	18-2-1999	Italia
+2093	Heloisa Barbosa	12-12-1999	Canada
+2094	Rodrigo Barbosa	8-9-2002	Italia
+2095	Vitoria da Conceicao	2-11-1995	Portugal
+2096	Marina Oliveira	26-12-1991	Argentina
+2097	Pietro da Paz	5-12-1990	Franca
+2098	Juliana Rodrigues	1-11-2004	Alemanha
+2099	Leonardo Ferreira	12-4-1991	Estados Unidos
+2100	Raul Ferreira	7-4-1998	Canada
+2101	Caue Cunha	19-8-1994	Japao
+2102	Amanda Silveira	29-9-1990	Brasil
+2103	Leticia da Costa	21-5-1992	Portugal
+2104	Heloisa da Cruz	10-3-2003	Brasil
+2105	Diego Correia	12-9-1991	Estados Unidos
+2106	Ana Mendes	28-12-1992	Espanha
+2107	Rodrigo Barros	16-2-1998	Alemanha
+2108	Renan Melo	14-11-2004	Japao
+2109	Vitoria Castro	20-6-2004	Japao
+2110	Manuela Lima	3-2-1991	Japao
+2111	Stella da Rosa	5-8-1996	Italia
+2112	Luiza das Neves	28-1-2003	Espanha
+2113	Ana Julia Melo	14-7-2002	Franca
+2114	Carlos Eduardo Cardoso	10-12-2000	Argentina
+2115	Eduardo Martins	6-2-1997	Franca
+2116	Marcela Carvalho	15-7-2002	Japao
+2117	Leandro Rocha	10-9-1993	Canada
+2118	Maria Fernanda Fogaca	1-3-1991	Alemanha
+2119	Thales Melo	22-5-1993	Portugal
+2120	Carolina Barbosa	14-8-2004	Brasil
+2121	Francisco Rodrigues	19-8-1999	Italia
+2122	Brenda Nunes	19-8-2004	Italia
+2123	Lucas Lopes	9-2-2004	Canada
+2124	Antonio Novaes	19-4-2000	Franca
+2125	Samuel Fogaca	23-1-1994	Brasil
+2126	Maria da Mota	25-1-1995	Portugal
+2127	Pedro Henrique da Mota	22-4-2003	Japao
+2128	Joao Miguel Lopes	17-7-1998	Japao
+2129	Matheus Correia	6-2-2004	Portugal
+2130	Stephany Melo	4-6-2001	Franca
+2131	Amanda Monteiro	23-10-2000	Brasil
+2132	Heloisa da Costa	27-3-1999	Argentina
+2133	Davi Sales	6-6-1992	Brasil
+2134	Joao Miguel Nascimento	15-5-1997	Franca
+2135	Maria Clara Porto	25-11-1998	Italia
+2136	Barbara Almeida	1-12-2003	Japao
+2137	Eduardo Ribeiro	27-3-2003	Estados Unidos
+2138	Lais Costa	28-11-2002	Portugal
+2139	Rebeca Freitas	20-3-2000	Portugal
+2140	Bruna Caldeira	17-1-2004	Franca
+2141	Marcelo Campos	30-12-1992	Canada
+2142	Mariana da Mata	6-2-1996	Franca
+2143	Anthony Cavalcanti	20-11-1990	Canada
+2144	Diego Alves	4-1-1994	Canada
+2145	Vinicius Nunes	13-5-1998	Espanha
+2146	Alexandre da Cruz	9-8-2002	Alemanha
+2147	Gustavo Henrique Porto	17-9-1995	Italia
+2148	Luigi Rezende	20-1-2000	Espanha
+2149	Leticia Cardoso	20-8-2001	Canada
+2150	Guilherme Correia	27-7-1999	Argentina
+2151	Eduarda Moraes	8-5-1991	Estados Unidos
+2152	Evelyn Vieira	8-11-2003	Canada
+2153	Emilly Moreira	2-12-2002	Estados Unidos
+2154	Joao Gabriel da Costa	14-7-1994	Estados Unidos
+2155	Lucca Moura	18-12-2002	Argentina
+2156	Joao da Mota	28-5-1993	Estados Unidos
+2157	Raquel Santos	28-8-2001	Brasil
+2158	Lavinia Alves	24-7-1996	Franca
+2159	Cecilia Rodrigues	30-11-2001	Alemanha
+2160	Cecilia Ramos	17-10-2004	Franca
+2161	Luiz Otavio Correia	15-2-1999	Espanha
+2162	Luana Azevedo	5-4-2002	Espanha
+2163	Kevin Aragao	15-1-1994	Italia
+2164	Valentina Teixeira	3-1-1993	Estados Unidos
+2165	Lorenzo Fogaca	30-12-2001	Italia
+2166	Joao da Luz	15-7-1995	Estados Unidos
+2167	Maria Sophia Pereira	26-8-1997	Estados Unidos
+2168	Eloah Lima	8-2-2001	Estados Unidos
+2169	Igor da Conceicao	28-3-1996	Franca
+2170	Laura Ramos	4-5-1990	Espanha
+2171	Joao Lucas Lima	23-4-1998	Canada
+2172	Theo Pinto	18-4-1993	Franca
+2173	Maria Cecilia da Costa	25-9-1999	Alemanha
+2174	Rafaela Rodrigues	14-12-1998	Portugal
+2175	Vitor Barros	9-11-1997	Italia
+2176	Breno Dias	25-10-1990	Japao
+2177	Calebe Jesus	15-6-1991	Franca
+2178	Fernanda Barros	23-10-2003	Franca
+2179	Maria Alice das Neves	11-9-2004	Espanha
+2180	Isadora Melo	7-7-1995	Argentina
+2181	Joao Miguel Peixoto	27-5-1994	Franca
+2182	Stephany Castro	2-11-2002	Portugal
+2183	Benjamin da Cruz	17-9-2000	Canada
+2184	Leandro Nunes	7-1-2000	Portugal
+2185	Alice Souza	2-6-1993	Portugal
+2186	Alicia Silveira	16-2-1998	Italia
+2187	Enzo Gabriel Fernandes	19-6-2001	Estados Unidos
+2188	Emanuel Melo	14-8-1998	Italia
+2189	Joana Cunha	11-7-2001	Franca
+2190	Laura Nogueira	16-11-1990	Alemanha
+2191	Lucca da Cruz	25-12-2003	Franca
+2192	Leticia Pires	18-4-1994	Espanha
+2193	Pedro Lucas Gomes	6-11-2002	Alemanha
+2194	Melissa da Paz	6-2-1996	Estados Unidos
+2195	Alexia Correia	12-9-2004	Argentina
+2196	Samuel da Rosa	5-6-2003	Canada
+2197	Marcos Vinicius Mendes	13-10-1998	Alemanha
+2198	Emanuelly Costa	6-2-1997	Canada
+2199	Isabelly Moura	19-3-1992	Argentina
+2200	Evelyn Campos	18-6-1990	Franca
+2201	Luiz Fernando Cardoso	26-11-1990	Espanha
+2202	Sophia Freitas	11-2-1991	Portugal
+2203	Kevin Ribeiro	27-8-1992	Espanha
+2204	Clarice Moreira	16-10-2000	Espanha
+2205	Alice Costela	22-6-2001	Estados Unidos
+2206	Nathan Barbosa	2-10-1998	Portugal
+2207	Esther da Rosa	8-5-1994	Alemanha
+2208	Isaac Nogueira	13-12-1993	Espanha
+2209	Elisa Monteiro	21-7-1994	Portugal
+2210	Maria Alice Ferreira	1-1-1999	Japao
+2211	Caue Costa	28-8-2000	Alemanha
+2212	Enzo da Costa	5-9-1992	Brasil
+2213	Rafael Martins	9-12-1998	Italia
+2214	Natalia Fernandes	2-3-1999	Italia
+2215	Helena Pinto	22-5-1990	Brasil
+2216	Juliana da Paz	26-7-1991	Canada
+2217	Juliana Fogaca	23-4-2002	Italia
+2218	Stephany Goncalves	24-7-1994	Italia
+2219	Nicolas Oliveira	7-5-2002	Argentina
+2220	Andre Pinto	19-10-2000	Franca
+2221	Beatriz Peixoto	25-4-1998	Brasil
+2222	Livia Aragao	29-2-1995	Argentina
+2223	Emilly da Cruz	6-8-2002	Espanha
+2224	Evelyn Aragao	16-4-2002	Brasil
+2225	Daniela Vieira	9-1-2001	Alemanha
+2226	Emanuelly da Costa	14-1-1994	Argentina
+2227	Alexia Fernandes	20-7-1999	Argentina
+2228	Ana Beatriz Silveira	10-4-1990	Alemanha
+2229	Ana Costela	9-5-1995	Argentina
+2230	Yasmin Nogueira	1-10-1996	Franca
+2231	Ana Julia Vieira	15-4-2002	Canada
+2232	Bruna Correia	15-3-2004	Canada
+2233	Murilo Ribeiro	6-10-2004	Japao
+2234	Felipe Barbosa	16-11-2003	Brasil
+2235	Daniel Pinto	15-12-2002	Portugal
+2236	Thiago Mendes	27-9-1997	Italia
+2237	Paulo Fogaca	24-8-1991	Brasil
+2238	Ana Julia Gomes	3-2-1995	Franca
+2239	Lara Barbosa	13-10-2000	Argentina
+2240	Arthur Martins	2-8-1997	Brasil
+2241	Fernanda Pires	16-3-1991	Japao
+2242	Ana Luiza Moura	3-11-1994	Espanha
+2243	Juliana Cavalcanti	8-11-1990	Portugal
+2244	Melissa Silveira	3-9-1996	Alemanha
+2245	Maria Vitoria Oliveira	2-5-2002	Alemanha
+2246	Gustavo Henrique Correia	27-12-1997	Portugal
+2247	Evelyn Porto	23-5-2001	Espanha
+2248	Barbara Cardoso	9-1-2001	Argentina
+2249	Enrico Oliveira	29-2-2003	Italia
+2250	Levi das Neves	13-6-1992	Estados Unidos
+2251	Marcela Peixoto	17-10-1990	Canada
+2252	Lucas Gabriel Carvalho	8-8-2002	Portugal
+2253	Sabrina Castro	30-8-2003	Espanha
+2254	Felipe Pinto	21-5-1998	Portugal
+2255	Gustavo Ribeiro	26-8-2002	Italia
+2256	Beatriz da Luz	27-5-1992	Japao
+2257	Arthur Souza	19-11-2001	Franca
+2258	Anthony Silveira	4-7-1991	Japao
+2259	Caua da Cunha	21-2-1994	Japao
+2260	Ana da Rocha	12-5-1995	Brasil
+2261	Heitor da Mota	25-5-1993	Italia
+2262	Pietro Moreira	10-11-1991	Franca
+2263	Maria Julia Sales	12-9-2002	Portugal
+2264	Eduarda Caldeira	19-8-2004	Espanha
+2265	Maria Vitoria Teixeira	16-3-1996	Argentina
+2266	Nathan Barros	10-3-1999	Franca
+2267	Alana Melo	25-12-2000	Argentina
+2268	Vitor Nascimento	17-11-1993	Japao
+2269	Juliana Sales	15-11-1997	Alemanha
+2270	Ana Vitoria Farias	23-11-1991	Japao
+2271	Henrique Duarte	4-3-1991	Italia
+2272	Lara Moraes	21-8-1991	Franca
+2273	Isabella da Cunha	17-1-2003	Alemanha
+2274	Luana Melo	5-9-2001	Alemanha
+2275	Isabella da Mata	23-7-1992	Italia
+2276	Giovanna Pires	23-10-1995	Italia
+2277	Amanda Peixoto	19-11-1994	Portugal
+2278	Lucas Cardoso	30-6-2001	Franca
+2279	Lorenzo da Cunha	14-6-1993	Franca
+2280	Diogo Alves	5-1-1994	Portugal
+2281	Joao Vitor Cardoso	6-11-1999	Brasil
+2282	Bryan Nascimento	2-5-2001	Japao
+2283	Diego Cardoso	26-5-2004	Portugal
+2284	Gustavo Souza	5-10-1993	Franca
+2285	Ana Livia Teixeira	9-7-1991	Franca
+2286	Evelyn Pinto	19-3-2002	Italia
+2287	Alana Azevedo	14-2-2004	Brasil
+2288	Paulo Caldeira	25-4-1998	Espanha
+2289	Emanuel Vieira	11-1-2000	Argentina
+2290	Ana Sophia Castro	3-5-1995	Japao
+2291	Davi Lucca Rocha	29-3-1993	Franca
+2292	Levi Barbosa	12-1-2002	Argentina
+2293	Heloisa da Cunha	18-8-1995	Japao
+2294	Laura Farias	11-2-2000	Estados Unidos
+2295	Luana Caldeira	26-4-2002	Franca
+2296	Maite Peixoto	14-7-1993	Canada
+2297	Leticia da Mata	17-4-1999	Estados Unidos
+2298	Joao Gabriel da Luz	7-3-1992	Brasil
+2299	Rafael Teixeira	28-4-1990	Franca
+2300	Nicole Duarte	1-2-1999	Canada
+2301	Ana Laura Cardoso	3-7-1990	Japao
+2302	Stella Porto	22-8-1992	Italia
+2303	Thiago Dias	8-8-2000	Estados Unidos
+2304	Enrico Martins	30-6-1997	Argentina
+2305	Diego Peixoto	11-3-1995	Italia
+2306	Sabrina Ramos	30-8-1996	Estados Unidos
+2307	Vitor Gabriel Pires	5-1-1992	Japao
+2308	Matheus Correia	21-10-1995	Brasil
+2309	Luigi Porto	12-4-1995	Brasil
+2310	Raquel Pinto	19-12-1991	Japao
+2311	Davi Luiz Silveira	4-6-2004	Alemanha
+2312	Eduardo Moreira	4-12-2004	Argentina
+2313	Emanuelly Costa	25-8-2003	Estados Unidos
+2314	Murilo Rodrigues	22-12-2004	Franca
+2315	Lucca Viana	15-8-1994	Alemanha
+2316	Luiz Fernando Aragao	17-7-1990	Franca
+2317	Eloah Peixoto	2-12-1993	Portugal
+2318	Eloah Santos	11-8-1998	Canada
+2319	Maria Julia Lopes	5-12-1999	Italia
+2320	Lorenzo da Conceicao	19-3-1994	Italia
+2321	Alicia Nascimento	10-11-1992	Alemanha
+2322	Alexandre Porto	20-4-1998	Canada
+2323	Ana Sophia Campos	21-8-1996	Canada
+2324	Lucas Silveira	21-4-1992	Franca
+2325	Anthony Monteiro	19-3-2004	Franca
+2326	Gustavo Cavalcanti	29-4-2003	Portugal
+2327	Lucas Gabriel Correia	17-11-2004	Italia
+2328	Emanuelly Rezende	21-8-2000	Argentina
+2329	Eduarda Teixeira	19-7-2001	Japao
+2330	Stella Alves	13-7-2004	Espanha
+2331	Gabriel Barros	14-1-2000	Alemanha
+2332	Yago Melo	5-10-1990	Brasil
+2333	Maria Luiza da Conceicao	19-8-1993	Portugal
+2334	Marcos Vinicius Castro	1-6-1996	Franca
+2335	Joao Guilherme Porto	8-5-1991	Portugal
+2336	Yago Ferreira	5-10-1994	Franca
+2337	Julia Nogueira	4-7-1999	Japao
+2338	Vitor Gabriel Dias	28-9-1997	Franca
+2339	Pedro Lucas Caldeira	24-4-2000	Alemanha
+2340	Gustavo Henrique Barros	28-2-1999	Portugal
+2341	Lucas Gabriel Cunha	2-12-2001	Espanha
+2342	Benjamin Costa	13-1-2004	Estados Unidos
+2343	Maite Goncalves	19-11-2002	Estados Unidos
+2344	Mariane Martins	30-8-2004	Franca
+2345	Maria Luiza Ramos	26-8-1995	Alemanha
+2346	Livia Sales	14-2-1991	Alemanha
+2347	Joao Guilherme Barbosa	9-3-2000	Portugal
+2348	Rebeca Souza	30-6-1996	Italia
+2349	Joao Almeida	13-4-1999	Italia
+2350	Carlos Eduardo da Luz	22-4-2001	Portugal
+2351	Joana Santos	6-1-1999	Espanha
+2352	Leticia da Cunha	2-10-2001	Espanha
+2353	Stephany Lima	7-4-1992	Japao
+2354	Sophia Viana	25-5-1991	Alemanha
+2355	Sophie Jesus	4-10-1994	Estados Unidos
+2356	Maria Fernanda Barros	27-7-1995	Canada
+2357	Joao Pedro Costela	11-4-1999	Argentina
+2358	Julia Moura	26-12-1990	Espanha
+2359	Bianca Fogaca	28-8-1996	Espanha
+2360	Luiz Gustavo Campos	3-12-2000	Espanha
+2361	Luiz Fernando Oliveira	9-6-2003	Italia
+2362	Sophia Vieira	3-6-2003	Alemanha
+2363	Helena Jesus	20-1-1997	Argentina
+2364	Raquel Araujo	24-11-1995	Espanha
+2365	Ana Vitoria Silva	30-5-2001	Espanha
+2366	Pietra Nascimento	5-4-1998	Alemanha
+2367	Davi Lucca Ribeiro	28-5-2004	Canada
+2368	Ana Vitoria Barros	23-12-1998	Espanha
+2369	Isabel Santos	5-5-2003	Argentina
+2370	Olivia Alves	23-1-2000	Italia
+2371	Eloah Castro	7-2-1990	Argentina
+2372	Danilo Pinto	4-10-1999	Brasil
+2373	Nicolas Alves	18-5-1997	Canada
+2374	Bernardo Pinto	9-7-1999	Italia
+2375	Leonardo Monteiro	3-9-2004	Franca
+2376	Joao Felipe Rodrigues	11-8-1992	Canada
+2377	Beatriz Costa	27-12-1994	Espanha
+2378	Ana Livia Moraes	15-6-2003	Espanha
+2379	Amanda das Neves	28-5-1996	Alemanha
+2380	Joao Gabriel Nunes	5-10-1990	Portugal
+2381	Luiza Cavalcanti	10-12-1992	Brasil
+2382	Luiza Santos	11-1-1999	Italia
+2383	Natalia Vieira	12-10-2004	Alemanha
+2384	Bruno Freitas	14-5-1990	Italia
+2385	Francisco Gomes	14-11-1997	Portugal
+2386	Nina Aragao	15-11-2001	Alemanha
+2387	Leonardo Goncalves	12-9-1990	Italia
+2388	Cecilia das Neves	24-7-1999	Japao
+2389	Lucas Gabriel da Rosa	6-1-1996	Portugal
+2390	Vitoria Cavalcanti	24-12-2003	Espanha
+2391	Maite da Rosa	3-4-1997	Brasil
+2392	Diogo Goncalves	3-12-1994	Espanha
+2393	Caroline Pires	19-1-2001	Alemanha
+2394	Ryan Santos	22-3-2000	Italia
+2395	Joao Felipe Mendes	11-4-1994	Canada
+2396	Fernando Caldeira	24-1-1995	Espanha
+2397	Antonio da Cruz	9-1-1991	Estados Unidos
+2398	Caio Correia	14-1-1994	Argentina
+2399	Yasmin Castro	16-1-1999	Portugal
+2400	Joao Gabriel da Cruz	29-1-1999	Portugal
+2401	Nina Carvalho	17-3-1994	Alemanha
+2402	Caue da Rocha	15-2-2002	Argentina
+2403	Heloisa Ramos	23-7-1995	Portugal
+2404	Maria Luiza Rezende	9-12-1994	Espanha
+2405	Felipe Melo	18-7-1999	Alemanha
+2406	Maysa da Paz	18-3-2000	Estados Unidos
+2407	Luiz Otavio Farias	10-12-2001	Japao
+2408	Sophia das Neves	1-2-2001	Portugal
+2409	Giovanna Novaes	16-1-1999	Italia
+2410	Laura Nunes	6-1-1994	Brasil
+2411	Arthur Fogaca	14-3-1999	Estados Unidos
+2412	Davi Lucca da Luz	15-1-1990	Estados Unidos
+2413	Maria Alice Pires	25-11-1995	Franca
+2414	Leandro Martins	27-11-2003	Brasil
+2415	Valentina Castro	21-12-2000	Japao
+2416	Henrique Oliveira	5-1-1990	Argentina
+2417	Maysa Porto	19-3-1990	Argentina
+2418	Maria Fernanda Araujo	27-6-1995	Canada
+2419	Ana Julia Sales	2-4-1999	Estados Unidos
+2420	Clarice Cardoso	2-2-1996	Japao
+2421	Yago Almeida	10-1-1995	Italia
+2422	Raul Nogueira	13-8-1999	Franca
+2423	Bernardo Martins	29-11-1999	Italia
+2424	Evelyn Oliveira	7-4-1991	Canada
+2425	Vicente Barros	3-10-2003	Argentina
+2426	Brenda Viana	8-1-1996	Portugal
+2427	Thomas Caldeira	25-8-2002	Alemanha
+2428	Maria Vitoria Peixoto	8-12-1995	Franca
+2429	Vitor Caldeira	29-1-2001	Portugal
+2430	Noah Pinto	4-10-1994	Espanha
+2431	Murilo Porto	6-5-2000	Alemanha
+2432	Sofia Viana	26-9-2001	Alemanha
+2433	Bernardo Pereira	26-1-1996	Canada
+2434	Daniel Duarte	19-11-2002	Brasil
+2435	Caroline Moura	21-11-2002	Argentina
+2436	Rafael Farias	15-6-1992	Portugal
+2437	Heitor Moura	16-9-1993	Estados Unidos
+2438	Julia Monteiro	30-2-2000	Espanha
+2439	Ana das Neves	23-5-1999	Canada
+2440	Bruno Novaes	13-2-2000	Espanha
+2441	Joao Guilherme Alves	28-7-1991	Franca
+2442	Isabella da Costa	10-1-1993	Argentina
+2443	Melissa Melo	17-3-1998	Estados Unidos
+2444	Davi Ribeiro	9-11-1995	Espanha
+2445	Melissa Rodrigues	13-3-2002	Portugal
+2446	Joao Pedro Rodrigues	10-6-2002	Canada
+2447	Murilo Martins	10-2-1997	Alemanha
+2448	Emanuella Cunha	25-8-2003	Franca
+2449	Davi Almeida	10-5-1992	Alemanha
+2450	Marcos Vinicius da Mota	19-10-1996	Estados Unidos
+2451	Maria Sophia Ramos	3-4-2004	Alemanha
+2452	Antonio da Luz	17-4-2000	Brasil
+2453	Luiz Gustavo Cunha	14-4-2003	Espanha
+2454	Ana Laura Vieira	18-8-1991	Canada
+2455	Daniela Cavalcanti	16-11-1999	Espanha
+2456	Rebeca Cardoso	26-4-2004	Espanha
+2457	Heitor Pereira	3-4-1990	Franca
+2458	Luiz Miguel Rocha	4-4-2000	Canada
+2459	Barbara Fernandes	21-10-1995	Argentina
+2460	Kamilly Azevedo	28-12-1991	Espanha
+2461	Catarina da Mota	5-3-2003	Italia
+2462	Samuel Araujo	14-8-2001	Argentina
+2463	Andre da Rosa	9-7-1997	Italia
+2464	Gustavo Henrique Nascimento	24-2-2004	Canada
+2465	Lorena Moraes	21-3-1991	Portugal
+2466	Pedro Henrique Oliveira	18-7-1994	Brasil
+2467	Amanda Santos	22-5-1993	Canada
+2468	Marina Ramos	8-7-2004	Brasil
+2469	Rafaela Rocha	15-7-1990	Espanha
+2470	Gabriel Barros	8-2-2000	Italia
+2471	Camila Rezende	14-1-2004	Italia
+2472	Lorena da Mata	1-7-1997	Brasil
+2473	Ana Melo	26-3-1995	Japao
+2474	Eloah Monteiro	3-3-2000	Argentina
+2475	Brenda da Luz	25-8-2004	Argentina
+2476	Joao Miguel Goncalves	15-12-1990	Espanha
+2477	Maria Sophia Lima	4-8-2004	Franca
+2478	Daniel Nunes	10-4-2003	Espanha
+2479	Marcelo da Mata	8-2-1991	Italia
+2480	Nicole Porto	16-1-2004	Franca
+2481	Yago Novaes	8-8-2002	Canada
+2482	Thomas Barros	30-5-2000	Portugal
+2483	Livia Ferreira	29-4-2004	Italia
+2484	Alicia Cavalcanti	3-11-1991	Estados Unidos
+2485	Yasmin Rocha	26-6-1997	Estados Unidos
+2486	Davi Lucas Castro	24-12-1992	Brasil
+2487	Thales Carvalho	24-6-1990	Espanha
+2488	Joaquim Cavalcanti	8-2-1994	Italia
+2489	Pedro Porto	21-9-1994	Alemanha
+2490	Joana Ferreira	6-1-2003	Argentina
+2491	Bryan Dias	15-3-1991	Italia
+2492	Valentina da Rocha	28-4-1996	Estados Unidos
+2493	Bernardo da Mota	10-3-1996	Canada
+2494	Lavinia Fogaca	24-11-2003	Estados Unidos
+2495	Maria Alice da Rocha	2-2-1993	Estados Unidos
+2496	Cecilia Moura	22-10-1991	Franca
+2497	Kaique da Mota	13-10-2003	Espanha
+2498	Luana Moura	13-8-2001	Brasil
+2499	Juan Azevedo	29-5-2002	Canada
+2500	Gabriel Barbosa	22-2-1992	Espanha
+2501	Eduardo Cardoso	21-2-2002	Franca
+2502	Alicia Barros	8-5-2003	Franca
+2503	Alexia Cavalcanti	24-7-1995	Argentina
+2504	Carlos Eduardo Teixeira	26-9-1999	Italia
+2505	Julia Cunha	28-3-2000	Alemanha
+2506	Luiz Henrique Azevedo	19-9-1991	Portugal
+2507	Rafael Costa	19-9-1999	Alemanha
+2508	Catarina da Mata	10-1-1997	Italia
+2509	Pietro Moreira	24-7-1993	Canada
+2510	Olivia Carvalho	6-7-2000	Argentina
+2511	Carlos Eduardo Pinto	24-10-1994	Alemanha
+2512	Clarice Pinto	18-5-1997	Canada
+2513	Natalia Lima	14-3-2003	Alemanha
+2514	Maria Julia Melo	19-1-1998	Espanha
+2515	Sabrina Pires	10-12-1996	Franca
+2516	Stella Azevedo	22-8-1994	Estados Unidos
+2517	Alana Rocha	9-8-2003	Espanha
+2518	Thales Lima	4-3-1994	Canada
+2519	Gabriel Fernandes	25-9-1990	Franca
+2520	Gabrielly da Mota	25-2-1997	Brasil
+2521	Mirella da Rocha	5-7-2003	Franca
+2522	Lavinia Lima	4-8-1992	Canada
+2523	Olivia Azevedo	26-6-1993	Brasil
+2524	Manuela Peixoto	5-2-1992	Franca
+2525	Valentina Viana	30-9-2001	Franca
+2526	Renan da Cruz	24-9-1994	Brasil
+2527	Luigi Farias	21-4-1994	Italia
+2528	Joaquim Castro	25-1-2002	Canada
+2529	Sophie das Neves	9-1-1995	Argentina
+2530	Leonardo Azevedo	1-7-1996	Argentina
+2531	Larissa Moreira	2-7-1995	Franca
+2532	Anthony Moreira	26-9-2004	Alemanha
+2533	Caua Sales	28-3-2000	Espanha
+2534	Camila das Neves	2-9-2000	Franca
+2535	Matheus da Conceicao	16-3-1992	Alemanha
+2536	Evelyn da Mata	19-4-1991	Alemanha
+2537	Alexandre da Rosa	24-3-2002	Portugal
+2538	Ana Carolina Correia	19-10-2000	Alemanha
+2539	Emanuella Cunha	16-4-1994	Italia
+2540	Kamilly Viana	13-6-1993	Japao
+2541	Cecilia Lima	2-7-1995	Brasil
+2542	Beatriz Martins	7-9-2003	Japao
+2543	Raul Castro	6-6-2004	Alemanha
+2544	Maria Alice Costa	25-5-1996	Portugal
+2545	Bianca Moreira	14-9-1999	Estados Unidos
+2546	Davi Lucas Almeida	20-4-2003	Canada
+2547	Renan Fogaca	25-5-1990	Italia
+2548	Calebe Costela	18-9-1998	Estados Unidos
+2549	Yago Souza	3-6-2000	Estados Unidos
+2550	Maria Fernanda Pinto	15-7-2000	Portugal
+2551	Matheus Lopes	10-2-1994	Estados Unidos
+2552	Davi Luiz Pereira	22-5-1993	Canada
+2553	Joao Pedro Lopes	1-12-2002	Canada
+2554	Raul da Conceicao	30-2-2004	Argentina
+2555	Stephany Fernandes	12-10-1998	Brasil
+2556	Leonardo Martins	22-10-1995	Espanha
+2557	Kaique da Luz	11-7-1997	Japao
+2558	Bianca da Rocha	13-2-2000	Espanha
+2559	Sophia da Cruz	15-8-1993	Portugal
+2560	Bianca Nascimento	11-9-1995	Estados Unidos
+2561	Lorena Moura	25-12-1999	Alemanha
+2562	Ana Laura Santos	10-7-1996	Italia
+2563	Brenda Freitas	3-7-1993	Argentina
+2564	Maria Luiza Dias	4-9-2003	Espanha
+2565	Alana Campos	10-3-2000	Canada
+2566	Raul Aragao	22-10-1992	Italia
+2567	Augusto Porto	16-1-2000	Alemanha
+2568	Alana Pires	16-8-2002	Argentina
+2569	Miguel Monteiro	16-1-2000	Japao
+2570	Maria da Mata	10-2-2002	Portugal
+2571	Joao Felipe Porto	30-5-1995	Espanha
+2572	Vitoria Oliveira	27-5-1992	Franca
+2573	Enzo Moreira	24-12-2000	Italia
+2574	Catarina Pinto	8-10-1994	Estados Unidos
+2575	Caue Rocha	16-10-1990	Portugal
+2576	Rafael Moraes	8-8-1991	Espanha
+2577	Pedro Henrique da Rosa	28-6-1998	Brasil
+2578	Livia Porto	19-11-1990	Estados Unidos
+2579	Lucas Gabriel Jesus	9-2-1993	Japao
+2580	Luiz Otavio Moreira	26-1-1999	Argentina
+2581	Davi Caldeira	9-1-1995	Japao
+2582	Thomas da Rocha	9-5-1997	Italia
+2583	Vitor Gabriel da Mota	11-11-2003	Estados Unidos
+2584	Brenda Dias	18-6-1991	Franca
+2585	Pedro Henrique Cunha	1-11-1993	Alemanha
+2586	Milena Moreira	16-11-1993	Alemanha
+2587	Luigi Cardoso	7-12-1991	Estados Unidos
+2588	Igor Barros	30-2-1997	Japao
+2589	Caroline Vieira	17-10-2004	Brasil
+2590	Pietro Campos	26-2-1990	Franca
+2591	Maria Sophia Santos	18-9-1994	Japao
+2592	Pedro Lucas da Luz	17-9-1996	Alemanha
+2593	Pietro Rocha	4-1-1993	Japao
+2594	Lavinia Silva	23-5-1997	Franca
+2595	Paulo Carvalho	6-12-2001	Espanha
+2596	Isis Goncalves	19-6-1991	Brasil
+2597	Pietra Melo	16-5-2002	Canada
+2598	Eduarda Souza	25-4-1997	Portugal
+2599	Luigi Martins	16-6-1998	Argentina
+2600	Lorenzo Costela	6-8-2001	Estados Unidos
+2601	Rafaela Castro	12-3-2000	Alemanha
+2602	Eloah Ribeiro	24-7-2001	Alemanha
+2603	Isis Moura	5-4-1991	Portugal
+2604	Maria Vitoria Correia	26-7-1993	Espanha
+2605	Alicia Campos	28-12-1995	Japao
+2606	Caue Moura	12-7-2004	Franca
+2607	Marcos Vinicius Pinto	25-9-1993	Estados Unidos
+2608	Ian Ferreira	10-11-1999	Portugal
+2609	Alicia Cunha	2-10-1991	Estados Unidos
+2610	Noah Pires	8-7-1995	Canada
+2611	Erick Carvalho	2-11-1997	Italia
+2612	Rodrigo Pereira	19-2-1992	Portugal
+2613	Caroline Oliveira	25-6-2001	Alemanha
+2614	Mariane Barbosa	19-2-2003	Alemanha
+2615	Pedro Lucas Moura	23-4-2000	Argentina
+2616	Davi Sales	2-6-1992	Brasil
+2617	Luigi Teixeira	5-3-1999	Espanha
+2618	Maria Azevedo	17-4-1991	Brasil
+2619	Benjamin da Mata	12-11-2000	Espanha
+2620	Pedro Lucas Monteiro	10-10-2003	Italia
+2621	Gustavo Henrique Peixoto	4-10-1991	Argentina
+2622	Erick Castro	14-2-1999	Brasil
+2623	Antonio da Mata	13-10-1998	Portugal
+2624	Caroline Gomes	25-11-1999	Canada
+2625	Alana Monteiro	10-1-2004	Italia
+2626	Melissa Caldeira	1-7-1991	Alemanha
+2627	Gabriela Cardoso	11-2-2004	Alemanha
+2628	Enzo Gabriel Pires	17-1-2000	Argentina
+2629	Maite Moura	2-3-1990	Espanha
+2630	Yuri Jesus	16-11-2002	Estados Unidos
+2631	Breno da Cruz	29-4-1994	Espanha
+2632	Thomas Barbosa	9-9-1996	Espanha
+2633	Maria Julia Pires	21-10-2001	Canada
+2634	Matheus da Mota	1-1-2003	Alemanha
+2635	Levi Oliveira	13-7-2004	Franca
+2636	Sophie Freitas	9-10-2003	Brasil
+2637	Leonardo Souza	27-8-1994	Japao
+2638	Maria Fernandes	6-5-1999	Espanha
+2639	Joana Nunes	17-12-2004	Canada
+2640	Davi Luiz da Conceicao	20-9-1995	Franca
+2641	Gabriel Jesus	20-11-1998	Franca
+2642	Samuel Freitas	7-4-1992	Espanha
+2643	Emanuella da Luz	25-5-1992	Japao
+2644	Barbara Monteiro	30-4-1993	Espanha
+2645	Raul Barros	23-4-1999	Franca
+2646	Pedro Miguel Rezende	13-11-2003	Italia
+2647	Gabrielly Moreira	7-11-1994	Argentina
+2648	Luna Goncalves	14-3-2001	Espanha
+2649	Sofia Ferreira	27-1-2004	Canada
+2650	Isaac Porto	2-6-1996	Alemanha
+2651	Lucca Farias	26-10-1990	Franca
+2652	Nina da Paz	9-1-2001	Espanha
+2653	Ana Livia Pereira	1-6-1996	Portugal
+2654	Joao Miguel Nogueira	2-5-1996	Portugal
+2655	Caue Rezende	2-6-2000	Brasil
+2656	Joao Felipe Teixeira	14-12-1995	Italia
+2657	Marina Pires	1-8-1992	Canada
+2658	Danilo Nogueira	7-7-1994	Estados Unidos
+2659	Arthur Oliveira	8-5-1997	Alemanha
+2660	Luiz Miguel Monteiro	22-1-2002	Italia
+2661	Yuri Silva	10-6-1999	Estados Unidos
+2662	Ana Julia Freitas	16-11-1993	Estados Unidos
+2663	Maysa da Cunha	26-7-1993	Brasil
+2664	Noah Costa	15-7-1992	Japao
+2665	Ana Santos	25-12-2004	Alemanha
+2666	Lavinia Oliveira	26-12-2000	Portugal
+2667	Heitor Almeida	22-10-2001	Japao
+2668	Sophie Pinto	22-1-1992	Japao
+2669	Leandro Vieira	24-9-2003	Estados Unidos
+2670	Camila Rocha	1-11-1991	Alemanha
+2671	Gabriela da Mota	7-11-2001	Espanha
+2672	Pedro Viana	10-10-1993	Canada
+2673	Rebeca Cardoso	26-2-1991	Franca
+2674	Ana Carolina Rodrigues	15-1-1994	Franca
+2675	Noah Costa	22-1-1991	Alemanha
+2676	Francisco da Mata	7-10-2001	Alemanha
+2677	Joao Gabriel da Rocha	8-1-2002	Alemanha
+2678	Isabella Melo	9-7-1992	Japao
+2679	Benjamin Monteiro	29-4-1996	Estados Unidos
+2680	Paulo Nascimento	18-4-1999	Canada
+2681	Daniela da Luz	14-11-1999	Brasil
+2682	Davi Lucca Silva	2-6-1996	Japao
+2683	Caua da Conceicao	30-8-2004	Portugal
+2684	Alana Duarte	18-10-1998	Italia
+2685	Joao Lucas Silveira	29-2-1991	Estados Unidos
+2686	Kamilly da Luz	13-1-2002	Espanha
+2687	Raquel Alves	12-12-1993	Espanha
+2688	Heitor Pereira	9-9-1991	Italia
+2689	Isabella Pires	13-9-2004	Argentina
+2690	Carlos Eduardo Peixoto	12-1-1991	Portugal
+2691	Juliana Costela	10-3-2000	Italia
+2692	Emanuelly Alves	3-4-1990	Brasil
+2693	Esther Viana	11-10-2004	Japao
+2694	Pedro Henrique Santos	3-7-2003	Canada
+2695	Luiz Felipe Silva	1-10-1994	Canada
+2696	Maria Cecilia Cardoso	24-8-1995	Japao
+2697	Marcela Fernandes	4-12-1994	Japao
+2698	Diego da Cruz	19-11-1994	Brasil
+2699	Alana Rocha	10-12-1999	Franca
+2700	Manuela da Cunha	4-4-2002	Alemanha
+2701	Maria Clara Fernandes	22-7-1994	Franca
+2702	Bernardo Castro	8-8-2003	Alemanha
+2703	Maria Luiza da Paz	30-9-1992	Alemanha
+2704	Kamilly Barros	8-8-2003	Brasil
+2705	Ian Ferreira	3-1-1990	Espanha
+2706	Benjamin Dias	18-11-2003	Franca
+2707	Ana Laura da Mata	26-10-2001	Franca
+2708	Brenda Nogueira	22-3-2003	Italia
+2709	Pedro Lucas Campos	1-10-1995	Portugal
+2710	Caroline Rodrigues	24-1-1999	Portugal
+2711	Raul Correia	6-4-1992	Japao
+2712	Joao Felipe Castro	12-7-2001	Estados Unidos
+2713	Rafaela Sales	15-4-1997	Franca
+2714	Daniela Silva	30-2-1995	Portugal
+2715	Davi Lucca da Conceicao	6-11-1999	Argentina
+2716	Marina Freitas	5-10-1995	Franca
+2717	Heloisa Mendes	25-1-2002	Portugal
+2718	Ana Viana	20-10-1991	Italia
+2719	Bernardo da Rocha	8-3-1992	Estados Unidos
+2720	Joao Pedro da Costa	1-5-1999	Japao
+2721	Maria Luiza da Mota	1-7-2001	Italia
+2722	Bruna Cunha	23-3-2000	Italia
+2723	Heitor Pereira	27-11-2003	Canada
+2724	Maite Fogaca	11-8-2002	Argentina
+2725	Melissa Nogueira	17-3-1991	Espanha
+2726	Ana Luiza Moura	29-4-1993	Alemanha
+2727	Igor Pereira	26-2-2001	Alemanha
+2728	Samuel Carvalho	12-11-1991	Argentina
+2729	Juan da Cruz	19-3-2003	Brasil
+2730	Carolina Costela	30-3-2004	Japao
+2731	Anthony Correia	13-6-1997	Brasil
+2732	Ana Beatriz da Paz	25-1-1991	Franca
+2733	Joao Guilherme Sales	21-12-2000	Argentina
+2734	Enzo Gabriel Costa	18-6-2001	Canada
+2735	Carolina da Cruz	13-7-1992	Brasil
+2736	Ana Laura Moura	16-2-1993	Brasil
+2737	Daniel Aragao	8-10-1997	Brasil
+2738	Felipe Nogueira	28-1-2001	Alemanha
+2739	Barbara Cardoso	9-11-1995	Espanha
+2740	Juliana Fogaca	27-7-1996	Portugal
+2741	Leandro Aragao	24-4-1991	Portugal
+2742	Breno Nogueira	1-3-2002	Portugal
+2743	Rafael Oliveira	7-1-1997	Alemanha
+2744	Luiz Miguel Correia	30-11-1997	Espanha
+2745	Alana Araujo	3-10-2003	Brasil
+2746	Murilo Fogaca	24-3-2003	Franca
+2747	Caue Oliveira	4-8-1997	Espanha
+2748	Elisa Farias	2-10-1992	Franca
+2749	Marina Freitas	19-10-1990	Franca
+2750	Maite Fernandes	28-2-1992	Argentina
+2751	Lavinia Oliveira	22-9-2004	Estados Unidos
+2752	Nicolas Barros	15-8-1997	Argentina
+2753	Daniela Moura	5-1-1991	Alemanha
+2754	Luigi Carvalho	3-7-1997	Franca
+2755	Francisco Pinto	18-8-1999	Italia
+2756	Elisa Santos	12-6-2001	Portugal
+2757	Bryan da Mota	4-10-1996	Japao
+2758	Ana Vitoria Ferreira	9-2-1996	Espanha
+2759	Theo Sales	4-2-1998	Canada
+2760	Alice da Conceicao	3-10-1997	Espanha
+2761	Joao Correia	8-5-2002	Canada
+2762	Rodrigo Jesus	24-9-2003	Brasil
+2763	Theo Ferreira	3-3-1993	Espanha
+2764	Helena Porto	14-2-2003	Argentina
+2765	Pedro Lucas Pereira	21-3-2004	Portugal
+2766	Helena Vieira	28-9-2002	Estados Unidos
+2767	Nicolas Cardoso	23-3-1990	Estados Unidos
+2768	Alice Araujo	25-2-2001	Portugal
+2769	Evelyn Fogaca	18-11-1993	Italia
+2770	Lucca da Rosa	11-5-1997	Canada
+2771	Felipe Fernandes	28-11-2004	Japao
+2772	Theo Jesus	1-12-1997	Alemanha
+2773	Camila da Cunha	26-1-1997	Argentina
+2774	Luana da Mota	28-6-1990	Japao
+2775	Vitor Hugo Duarte	14-8-2001	Brasil
+2776	Caroline Ribeiro	14-8-1999	Brasil
+2777	Pedro Miguel Cardoso	13-3-1992	Canada
+2778	Matheus Barbosa	24-12-1993	Franca
+2779	Vitor Gabriel Moura	12-11-1997	Canada
+2780	Carolina Pereira	25-1-1994	Alemanha
+2781	Emanuelly Monteiro	6-10-1997	Argentina
+2782	Agatha Rodrigues	25-8-1997	Alemanha
+2783	Catarina Monteiro	14-6-1993	Italia
+2784	Caue Campos	27-3-2003	Alemanha
+2785	Ian Monteiro	9-2-2000	Japao
+2786	Andre Pinto	5-6-1991	Espanha
+2787	Alexandre da Rocha	23-10-1998	Estados Unidos
+2788	Guilherme Nogueira	16-2-1998	Japao
+2789	Lara Lopes	7-7-2003	Franca
+2790	Valentina Martins	25-1-1991	Espanha
+2791	Noah Costela	7-4-1994	Canada
+2792	Isabella Nascimento	28-9-1995	Portugal
+2793	Daniel Araujo	10-2-2004	Italia
+2794	Maria Sophia Freitas	13-3-1996	Franca
+2795	Joao Miguel da Conceicao	16-7-2003	Alemanha
+2796	Eduarda Rezende	4-12-1995	Brasil
+2797	Thiago Teixeira	6-4-1992	Canada
+2798	Igor das Neves	16-11-1994	Italia
+2799	Olivia Alves	26-10-1996	Argentina
+2800	Maria Cecilia Lima	8-1-1995	Franca
+2801	Nicolas Nogueira	4-7-1994	Alemanha
+2802	Otavio Nunes	8-12-2004	Italia
+2803	Joao Pedro Ribeiro	26-12-1994	Portugal
+2804	Pedro Henrique Cunha	11-8-1991	Japao
+2805	Calebe Souza	11-10-1996	Italia
+2806	Paulo Alves	16-1-1997	Estados Unidos
+2807	Isadora Carvalho	24-9-2001	Argentina
+2808	Isabella Carvalho	16-8-2002	Franca
+2809	Elisa da Mata	28-1-1994	Franca
+2810	Maria Silveira	25-4-1990	Portugal
+2811	Noah Melo	21-9-1992	Japao
+2812	Maria Alice Gomes	3-10-1997	Argentina
+2813	Theo Viana	5-4-1992	Franca
+2814	Laura Ribeiro	6-3-1998	Canada
+2815	Isis da Mota	11-7-2002	Brasil
+2816	Kamilly Carvalho	21-6-1992	Franca
+2817	Luiz Felipe Rodrigues	25-8-1996	Italia
+2818	Stella Nunes	9-4-1999	Argentina
+2819	Ana Julia Barbosa	11-3-1996	Portugal
+2820	Maria Cecilia Alves	21-7-1991	Canada
+2821	Isabel Nunes	23-10-1991	Portugal
+2822	Alice Moreira	27-10-2004	Japao
+2823	Carlos Eduardo Viana	14-4-2001	Portugal
+2824	Ana Vitoria Santos	29-3-1991	Argentina
+2825	Maria Cecilia Moura	20-8-1993	Argentina
+2826	Sophia Alves	28-8-1997	Canada
+2827	Sofia Castro	21-1-1991	Japao
+2828	Diogo Moreira	18-10-1995	Japao
+2829	Beatriz Rocha	23-9-1996	Alemanha
+2830	Isis Ferreira	15-8-2003	Canada
+2831	Davi Ribeiro	30-3-1992	Espanha
+2832	Luiz Miguel Cardoso	26-5-1998	Estados Unidos
+2833	Alicia Ribeiro	6-7-1994	Brasil
+2834	Guilherme Novaes	16-9-2004	Portugal
+2835	Joao Felipe Melo	27-9-2000	Portugal
+2836	Marcos Vinicius da Mata	16-8-1996	Portugal
+2837	Laura Campos	26-1-1994	Japao
+2838	Isis Araujo	4-1-1990	Japao
+2839	Joao Gabriel Goncalves	11-2-2002	Franca
+2840	Theo Melo	25-5-2004	Espanha
+2841	Lucca Dias	28-1-2000	Espanha
+2842	Lorena da Mota	21-5-1995	Canada
+2843	Enrico Carvalho	27-2-1999	Italia
+2844	Pietro Fernandes	27-6-2004	Espanha
+2845	Emanuella da Cunha	2-12-2002	Brasil
+2846	Diego Oliveira	22-9-1997	Estados Unidos
+2847	Gustavo Cardoso	23-10-2004	Italia
+2848	Henrique Cardoso	3-6-2004	Alemanha
+2849	Ana Sophia Ramos	2-12-1995	Estados Unidos
+2850	Joao Gabriel Nascimento	19-2-2001	Argentina
+2851	Vitoria Carvalho	15-2-1990	Franca
+2852	Mariane Campos	23-6-2002	Argentina
+2853	Miguel Sales	2-3-1996	Brasil
+2854	Alice Pires	15-3-2000	Italia
+2855	Isadora Moraes	2-9-2002	Japao
+2856	Nicolas Nascimento	23-8-1999	Estados Unidos
+2857	Rafael Barros	1-12-1990	Alemanha
+2858	Ana Sophia Jesus	5-5-2001	Estados Unidos
+2859	Joao Lucas Cardoso	16-10-1992	Espanha
+2860	Lucas Gabriel Peixoto	1-9-1992	Franca
+2861	Gabriel Castro	6-3-1994	Brasil
+2862	Joao Porto	12-3-1995	Italia
+2863	Maria Vieira	10-6-2002	Canada
+2864	Yasmin da Conceicao	13-9-2003	Portugal
+2865	Sophia Castro	26-12-1991	Franca
+2866	Luiz Fernando da Mota	23-5-1998	Canada
+2867	Nathan Santos	19-3-1993	Alemanha
+2868	Vitoria Moraes	20-9-1993	Alemanha
+2869	Ana Sophia Fernandes	3-3-2001	Canada
+2870	Eloah Rodrigues	27-7-1998	Japao
+2871	Lucca da Paz	21-9-2000	Brasil
+2872	Vinicius Farias	29-7-1993	Espanha
+2873	Otavio Pinto	24-11-2003	Italia
+2874	Gabriel Viana	19-10-1993	Italia
+2875	Lorena Costela	15-10-2002	Franca
+2876	Joao Miguel Pereira	5-12-1996	Canada
+2877	Stephany Ramos	5-9-1995	Espanha
+2878	Vinicius Santos	26-8-1991	Espanha
+2879	Joao Felipe Viana	7-2-1997	Argentina
+2880	Brenda Souza	2-11-1993	Alemanha
+2881	Maria Julia Goncalves	9-2-2004	Brasil
+2882	Lavinia Caldeira	18-2-1999	Estados Unidos
+2883	Maria Julia Souza	6-5-1997	Franca
+2884	Yasmin Freitas	26-12-1995	Franca
+2885	Luiz Gustavo Moreira	19-12-1998	Italia
+2886	Helena Sales	19-3-2002	Italia
+2887	Clarice Moreira	11-5-1993	Argentina
+2888	Yasmin Rezende	2-3-1994	Argentina
+2889	Alexandre Santos	24-3-1990	Franca
+2890	Kamilly Farias	12-3-2001	Brasil
+2891	Caua da Cunha	16-7-2001	Brasil
+2892	Diego da Paz	24-3-2003	Italia
+2893	Leandro Costa	23-10-2002	Portugal
+2894	Joao Pedro das Neves	19-5-2002	Brasil
+2895	Maite Ramos	11-2-1992	Argentina
+2896	Yago Nascimento	16-5-1998	Espanha
+2897	Eduarda Teixeira	13-7-1995	Canada
+2898	Clara Nogueira	28-8-1995	Italia
+2899	Luigi da Cruz	27-5-1994	Portugal
+2900	Maria Luiza da Mata	27-9-1999	Alemanha
+2901	Elisa da Conceicao	30-4-2001	Espanha
+2902	Davi Fernandes	5-12-1996	Alemanha
+2903	Stella Lima	8-6-2002	Argentina
+2904	Pietra Carvalho	9-5-2004	Japao
+2905	Joao Miguel da Costa	11-5-1995	Alemanha
+2906	Sofia Moreira	14-7-1996	Italia
+2907	Clarice da Luz	29-5-2000	Franca
+2908	Alexandre Fogaca	26-2-1993	Argentina
+2909	Vitoria Farias	19-8-1990	Brasil
+2910	Fernanda Fogaca	26-8-1997	Japao
+2911	Joao Vitor Nogueira	20-6-1995	Argentina
+2912	Fernando Silveira	15-4-2003	Argentina
+2913	Augusto Nascimento	19-3-2001	Argentina
+2914	Leonardo Porto	29-6-1994	Japao
+2915	Danilo Lima	16-12-1991	Japao
+2916	Theo Rodrigues	22-7-1992	Italia
+2917	Thomas Nunes	5-8-1991	Espanha
+2918	Isaac Araujo	10-8-1999	Argentina
+2919	Carlos Eduardo Silveira	14-5-1994	Portugal
+2920	Ryan da Conceicao	14-12-1992	Argentina
+2921	Henrique Castro	6-3-2000	Brasil
+2922	Nicole Nunes	22-10-1992	Argentina
+2923	Pedro Costela	3-2-1993	Estados Unidos
+2924	Yuri Costela	13-12-1995	Franca
+2925	Amanda Viana	27-7-2000	Argentina
+2926	Lorena Melo	13-3-2001	Alemanha
+2927	Murilo Fernandes	2-1-1997	Argentina
+2928	Luiz Gustavo Pires	22-7-1997	Franca
+2929	Joao Miguel Monteiro	11-5-1990	Estados Unidos
+2930	Leonardo Freitas	4-2-1991	Estados Unidos
+2931	Kaique Rocha	15-11-1992	Canada
+2932	Leticia Moreira	16-1-1997	Japao
+2933	Thales da Conceicao	30-5-1999	Estados Unidos
+2934	Joao Lucas Ribeiro	21-6-1997	Franca
+2935	Marcela Costela	21-1-2004	Estados Unidos
+2936	Stephany Goncalves	12-8-2001	Alemanha
+2937	Eduardo Fogaca	22-1-1995	Franca
+2938	Renan Rezende	16-5-1998	Espanha
+2939	Vicente Aragao	4-9-1998	Alemanha
+2940	Andre Rodrigues	9-5-1995	Brasil
+2941	Ana Luiza Sales	21-11-1992	Portugal
+2942	Lucas Moreira	20-10-1993	Estados Unidos
+2943	Renan da Costa	26-9-1992	Espanha
+2944	Luiz Henrique Nogueira	7-10-2004	Espanha
+2945	Emanuella Peixoto	7-9-1991	Portugal
+2946	Davi Lucca Pereira	16-7-1997	Alemanha
+2947	Caroline Viana	24-4-1994	Brasil
+2948	Davi Lucas Farias	3-4-1992	Argentina
+2949	Raul Goncalves	14-6-1990	Japao
+2950	Isadora Cavalcanti	5-9-1998	Estados Unidos
+2951	Leticia Porto	13-3-1991	Alemanha
+2952	Lorena da Mota	21-6-1991	Argentina
+2953	Sabrina da Costa	17-8-1991	Espanha
+2954	Davi Lucca Cardoso	7-7-1992	Estados Unidos
+2955	Lavinia Fogaca	14-4-1991	Espanha
+2956	Ana Clara Novaes	1-9-1994	Estados Unidos
+2957	Ryan Campos	13-5-2001	Portugal
+2958	Yago Goncalves	10-10-2002	Espanha
+2959	Maite Gomes	7-9-2000	Japao
+2960	Joao Felipe Barros	12-7-1991	Portugal
+2961	Levi Nogueira	2-8-1997	Portugal
+2962	Luiz Miguel Pereira	2-1-1998	Japao
+2963	Joao Pinto	23-2-2004	Portugal
+2964	Yasmin Souza	19-3-1993	Portugal
+2965	Elisa Mendes	13-5-1991	Espanha
+2966	Bianca Vieira	9-4-2002	Alemanha
+2967	Thomas Castro	5-7-2000	Canada
+2968	Thomas Pinto	26-12-2003	Portugal
+2969	Ana Sophia Lopes	15-11-1997	Espanha
+2970	Clarice da Mata	30-7-1993	Canada
+2971	Gabrielly da Cunha	27-10-1996	Estados Unidos
+2972	Lais Campos	22-6-1999	Brasil
+2973	Vitor Hugo Santos	7-6-2000	Estados Unidos
+2974	Clarice Dias	27-4-2002	Argentina
+2975	Emilly Fogaca	25-5-1994	Espanha
+2976	Francisco da Conceicao	20-3-1992	Franca
+2977	Yasmin Lopes	20-6-1992	Estados Unidos
+2978	Vitoria Goncalves	26-10-1996	Franca
+2979	Pedro Freitas	2-4-1997	Portugal
+2980	Thiago Costela	7-5-1991	Estados Unidos
+2981	Larissa Souza	27-5-1998	Italia
+2982	Leticia Goncalves	11-11-2003	Canada
+2983	Gabrielly da Cruz	27-9-2004	Estados Unidos
+2984	Julia Campos	2-11-1998	Canada
+2985	Erick Teixeira	14-9-1998	Brasil
+2986	Nicolas Duarte	19-1-1991	Brasil
+2987	Calebe Silveira	1-3-1992	Espanha
+2988	Juliana Cardoso	15-2-1999	Portugal
+2989	Emilly Cardoso	3-9-1992	Alemanha
+2990	Vitor Nunes	10-11-2000	Brasil
+2991	Benjamin Nascimento	25-8-1991	Japao
+2992	Erick Nunes	20-7-2002	Canada
+2993	Ana Sophia Peixoto	10-10-2004	Franca
+2994	Eduardo Nogueira	8-3-1997	Espanha
+2995	Valentina Nunes	11-12-1991	Canada
+2996	Isabella Carvalho	5-9-2004	Estados Unidos
+2997	Joana Araujo	27-1-1994	Japao
+2998	Fernanda Melo	22-12-1990	Italia
+2999	Kevin Silveira	5-3-1996	Brasil
+3000	Julia Cavalcanti	18-8-2000	Franca
+3001	Alice Freitas	2-6-1999	Espanha
+3002	Valentina Alves	22-8-1998	Espanha
+3003	Maria Fernanda da Luz	19-5-1992	Argentina
+3004	Agatha Freitas	7-1-1993	Portugal
+3005	Natalia Ferreira	17-5-1990	Estados Unidos
+3006	Ana Alves	24-10-1991	Canada
+3007	Felipe Ferreira	28-9-2004	Japao
+3008	Maite Freitas	8-9-1993	Italia
+3009	Luiz Otavio da Cruz	7-6-1998	Canada
+3010	Joana da Cunha	10-2-1997	Estados Unidos
+3011	Alana Fernandes	29-4-1993	Portugal
+3012	Eduarda Nunes	24-11-1999	Canada
+3013	Leonardo Dias	9-6-2002	Italia
+3014	Yago Duarte	14-2-2003	Argentina
+3015	Maria Luiza Azevedo	13-7-1998	Italia
+3016	Felipe Duarte	4-10-1990	Brasil
+3017	Isabelly Silva	3-10-2003	Brasil
+3018	Maria Fernanda Nunes	10-6-2003	Estados Unidos
+3019	Isadora da Mota	13-11-1990	Canada
+3020	Natalia Gomes	30-2-2001	Estados Unidos
+3021	Esther Costa	3-2-1999	Espanha
+3022	Heitor Costela	2-4-1994	Franca
+3023	Laura Fogaca	2-3-2003	Franca
+3024	Luiza Lima	15-8-1997	Estados Unidos
+3025	Daniel da Cruz	3-9-1993	Estados Unidos
+3026	Maria Vitoria Cunha	14-2-2002	Franca
+3027	Joao Vitor Farias	29-5-1998	Japao
+3028	Ana Julia Peixoto	23-2-1999	Italia
+3029	Maria Clara Silveira	2-1-2001	Estados Unidos
+3030	Mariana Rodrigues	19-4-2001	Franca
+3031	Clarice Fernandes	28-9-1995	Italia
+3032	Vitoria da Cunha	9-10-1995	Estados Unidos
+3033	Felipe Mendes	28-5-2004	Canada
+3034	Levi da Mata	4-6-1992	Estados Unidos
+3035	Melissa da Rosa	27-7-1997	Alemanha
+3036	Ana Luiza Silva	13-7-2003	Portugal
+3037	Helena Nunes	25-8-2002	Alemanha
+3038	Vitoria Rezende	8-5-1996	Portugal
+3039	Emanuel Silveira	12-6-1995	Argentina
+3040	Maria Fernanda Peixoto	30-3-1993	Brasil
+3041	Barbara da Paz	18-7-2001	Brasil
+3042	Maria Cecilia Moura	9-5-1995	Argentina
+3043	Camila Silva	26-9-2003	Franca
+3044	Emanuel Rocha	11-7-1999	Japao
+3045	Lais Azevedo	26-3-1993	Italia
+3046	Isabella Goncalves	3-7-1990	Estados Unidos
+3047	Catarina Caldeira	2-3-1999	Franca
+3048	Isadora Lopes	19-3-2000	Franca
+3049	Isadora Rocha	17-2-1993	Estados Unidos
+3050	Raquel das Neves	18-2-1994	Alemanha
+3051	Barbara Silva	18-11-1990	Estados Unidos
+3052	Caroline Rocha	6-8-2001	Canada
+3053	Kamilly Ferreira	13-3-1993	Italia
+3054	Gabrielly Melo	16-4-2001	Canada
+3055	Leandro da Conceicao	3-6-1993	Estados Unidos
+3056	Luna Nascimento	28-10-1991	Alemanha
+3057	Olivia Porto	4-11-1993	Canada
+3058	Davi Lucca Nogueira	21-1-1993	Estados Unidos
+3059	Pedro Silveira	24-12-2004	Espanha
+3060	Daniela Rocha	20-3-2001	Espanha
+3061	Luiz Otavio Almeida	14-12-1994	Franca
+3062	Giovanna Ferreira	14-10-2001	Argentina
+3063	Anthony Souza	4-9-2004	Franca
+3064	Helena Sales	27-12-2002	Japao
+3065	Yago da Cunha	22-5-1997	Franca
+3066	Isis Azevedo	1-4-2002	Italia
+3067	Julia Fernandes	28-9-1993	Brasil
+3068	Amanda Martins	4-5-1994	Franca
+3069	Sofia Oliveira	16-5-1990	Argentina
+3070	Pedro Miguel Duarte	4-2-1994	Espanha
+3071	Larissa da Cunha	15-12-1995	Italia
+3072	Eloah Araujo	9-11-1991	Alemanha
+3073	Joao Felipe Alves	14-2-1996	Canada
+3074	Ana Laura Rezende	27-4-1998	Alemanha
+3075	Lucca Duarte	15-12-2004	Estados Unidos
+3076	Joaquim Ramos	16-8-1998	Italia
+3077	Enrico Nascimento	16-2-1991	Italia
+3078	Emanuelly Pinto	18-12-2003	Italia
+3079	Leandro da Rocha	23-2-2003	Espanha
+3080	Marina Goncalves	28-5-1996	Franca
+3081	Alice Gomes	10-11-1992	Canada
+3082	Luigi Costela	25-9-1999	Japao
+3083	Ana Laura Moreira	13-1-2002	Estados Unidos
+3084	Esther Jesus	1-2-1997	Alemanha
+3085	Nicole da Costa	30-12-1990	Estados Unidos
+3086	Maysa Teixeira	30-7-2002	Brasil
+3087	Cecilia Freitas	6-3-1993	Espanha
+3088	Thales Ramos	25-9-2003	Italia
+3089	Alana Campos	2-7-1999	Franca
+3090	Benicio Dias	19-2-1994	Japao
+3091	Erick Ribeiro	20-9-2003	Japao
+3092	Clara Pires	29-8-1999	Italia
+3093	Mariana Pinto	10-7-1990	Estados Unidos
+3094	Matheus Costela	22-4-2000	Japao
+3095	Emilly Moreira	4-8-1998	Japao
+3096	Joao Gabriel da Luz	9-12-2002	Espanha
+3097	Thiago Ferreira	28-7-2004	Brasil
+3098	Maria Luiza Aragao	2-2-1994	Brasil
+3099	Ana Luiza da Cunha	10-12-1997	Argentina
+3100	Barbara Alves	26-11-2001	Estados Unidos
+3101	Ian Castro	3-6-1995	Alemanha
+3102	Marcela Nogueira	13-10-2001	Portugal
+3103	Valentina Novaes	25-7-2003	Portugal
+3104	Emanuelly Correia	16-12-2000	Italia
+3105	Gustavo Henrique Vieira	23-1-1993	Alemanha
+3106	Ryan Nascimento	15-2-1995	Brasil
+3107	Eduarda Cardoso	1-6-1993	Japao
+3108	Natalia Goncalves	14-11-1996	Franca
+3109	Davi Correia	15-9-1995	Portugal
+3110	Anthony Nogueira	24-6-1996	Japao
+3111	Ana Barbosa	15-11-1998	Estados Unidos
+3112	Andre Oliveira	2-6-1994	Japao
+3113	Ana Fogaca	8-10-1995	Portugal
+3114	Yago Oliveira	30-11-1997	Estados Unidos
+3115	Miguel Moraes	25-12-1993	Portugal
+3116	Sophie da Mata	5-12-1997	Brasil
+3117	Camila da Mota	23-3-1993	Brasil
+3118	Vitoria Fernandes	12-11-1997	Alemanha
+3119	Maria Alice Freitas	13-11-1995	Portugal
+3120	Milena Melo	9-5-1993	Alemanha
+3121	Isadora Costa	5-3-2003	Italia
+3122	Enzo Novaes	20-10-1990	Italia
+3123	Luna Nogueira	14-2-1999	Alemanha
+3124	Lavinia Pereira	7-6-1994	Franca
+3125	Henrique Nogueira	26-5-1995	Espanha
+3126	Bruno Ramos	19-9-2000	Canada
+3127	Beatriz Lopes	11-11-2000	Franca
+3128	Valentina Ferreira	27-11-1999	Franca
+3129	Laura Dias	20-6-2001	Japao
+3130	Juliana Ramos	23-3-1992	Japao
+3131	Rebeca Monteiro	14-8-1993	Espanha
+3132	Andre Cunha	9-11-1991	Italia
+3133	Enrico Peixoto	19-11-1990	Brasil
+3134	Igor Pinto	23-11-2001	Japao
+3135	Davi Lucca Cavalcanti	14-12-1990	Estados Unidos
+3136	Sarah Barros	24-8-2000	Portugal
+3137	Danilo Barbosa	28-1-1997	Argentina
+3138	Juan Lima	30-7-1992	Canada
+3139	Joao Barros	8-12-1995	Argentina
+3140	Helena Freitas	3-5-1992	Japao
+3141	Alexandre Pires	13-7-1990	Japao
+3142	Evelyn Nascimento	29-10-2001	Espanha
+3143	Paulo Silva	2-10-2004	Canada
+3144	Raul Goncalves	5-8-1998	Alemanha
+3145	Sarah Costa	13-7-2001	Italia
+3146	Ana Vitoria Correia	24-2-1998	Argentina
+3147	Barbara Barros	27-11-1991	Japao
+3148	Ana Beatriz Castro	13-6-1997	Estados Unidos
+3149	Mariana das Neves	13-8-1993	Alemanha
+3150	Marcos Vinicius Sales	2-6-1996	Portugal
+3151	Lara Novaes	5-7-1990	Portugal
+3152	Fernando Oliveira	4-7-1990	Alemanha
+3153	Maite Gomes	18-3-1992	Franca
+3154	Noah da Rosa	12-3-1995	Estados Unidos
+3155	Larissa da Mota	25-6-1994	Espanha
+3156	Emanuella Araujo	28-11-1999	Portugal
+3157	Pietra Souza	11-9-2001	Japao
+3158	Nicolas Pereira	10-8-2003	Canada
+3159	Maria Clara Rodrigues	5-11-2004	Franca
+3160	Joao Pedro Moreira	12-4-1990	Alemanha
+3161	Luiz Otavio Duarte	27-8-1999	Argentina
+3162	Lara Oliveira	16-3-1999	Argentina
+3163	Maria Vitoria Araujo	6-8-2003	Espanha
+3164	Nathan Oliveira	15-2-1992	Argentina
+3165	Heloisa Santos	1-12-1993	Franca
+3166	Andre Ferreira	2-12-1998	Brasil
+3167	Bruno Porto	4-6-1995	Franca
+3168	Clara Carvalho	2-10-1999	Espanha
+3169	Bernardo Carvalho	25-10-2002	Japao
+3170	Levi Martins	3-9-2003	Estados Unidos
+3171	Bruna Dias	26-3-1996	Estados Unidos
+3172	Camila Fogaca	6-4-1999	Portugal
+3173	Pietro Jesus	24-5-1996	Espanha
+3174	Kaique Jesus	11-1-1996	Brasil
+3175	Luiz Gustavo Cardoso	27-2-1997	Brasil
+3176	Caua Silva	13-8-1993	Japao
+3177	Nicolas Ribeiro	12-11-1996	Estados Unidos
+3178	Manuela da Conceicao	7-2-1994	Italia
+3179	Carlos Eduardo Melo	8-3-1992	Alemanha
+3180	Amanda Moreira	23-11-1998	Brasil
+3181	Thales Rodrigues	12-6-1993	Alemanha
+3182	Diego Ferreira	19-3-1993	Canada
+3183	Alicia da Cunha	7-1-1990	Espanha
+3184	Rafael Araujo	25-12-1997	Portugal
+3185	Benicio Lima	9-4-1991	Canada
+3186	Vinicius Rodrigues	18-2-1999	Italia
+3187	Isaac Azevedo	12-5-1992	Argentina
+3188	Ana Sophia Ribeiro	29-8-1994	Estados Unidos
+3189	Sophia Mendes	9-8-2001	Argentina
+3190	Sabrina Alves	11-12-1994	Argentina
+3191	Igor Lima	23-11-1995	Argentina
+3192	Murilo Barros	6-7-2004	Portugal
+3193	Isadora Moraes	8-8-2001	Argentina
+3194	Joao Vitor Cunha	30-3-1994	Espanha
+3195	Raquel Rodrigues	18-9-1997	Portugal
+3196	Davi Luiz da Rocha	20-6-1994	Argentina
+3197	Ana Carolina da Luz	25-9-1994	Canada
+3198	Bernardo Nogueira	24-2-1997	Portugal
+3199	Ana Livia Monteiro	23-11-1992	Japao
+3200	Maysa Cardoso	2-11-1997	Italia
+3201	Thiago da Cruz	2-6-1991	Brasil
+3202	Renan Cavalcanti	5-12-1994	Brasil
+3203	Benjamin da Cunha	30-12-1994	Canada
+3204	Emanuella Oliveira	7-11-1993	Estados Unidos
+3205	Isaac Novaes	22-4-1997	Alemanha
+3206	Emilly Oliveira	13-9-1992	Alemanha
+3207	Sofia Castro	25-2-1996	Canada
+3208	Sophie das Neves	7-1-1995	Italia
+3209	Joao Barbosa	21-3-1992	Espanha
+3210	Marcos Vinicius Pires	24-11-1991	Espanha
+3211	Elisa Pereira	27-12-2003	Argentina
+3212	Vitor Gabriel Almeida	27-3-1998	Espanha
+3213	Kevin da Cunha	26-10-1991	Portugal
+3214	Caroline Cardoso	27-3-1997	Portugal
+3215	Gabriela Silveira	14-8-2003	Japao
+3216	Bernardo Peixoto	17-11-1998	Brasil
+3217	Nicole da Costa	22-3-1998	Alemanha
+3218	Erick Duarte	13-2-1996	Italia
+3219	Lucas Gabriel da Cruz	7-3-2001	Franca
+3220	Gabriel Carvalho	5-11-1997	Franca
+3221	Juliana Moreira	27-11-1992	Portugal
+3222	Emanuel Farias	26-12-1990	Italia
+3223	Thales Jesus	1-4-1997	Estados Unidos
+3224	Andre Silva	22-3-1990	Brasil
+3225	Danilo Moreira	3-2-2001	Brasil
+3226	Luiz Gustavo da Luz	24-6-2004	Estados Unidos
+3227	Caue Cardoso	8-1-2000	Portugal
+3228	Ian Teixeira	25-6-1995	Alemanha
+3229	Igor Mendes	26-6-1999	Argentina
+3230	Amanda Mendes	24-3-2004	Espanha
+3231	Caua Martins	12-3-1990	China
+3232	Joao Gabriel Ferreira	21-1-1994	Australia
+3233	Luiza Ribeiro	29-10-1998	Portugal
