@@ -28,30 +28,54 @@ int adicionarEstudante(estudante **e, nmats **nm, int quant)
             printf("\nErro na alocação de memória. Não foi possível realizar o cadastro.\n");
             return 0;
         }
+        char input[50];
+
+        do{
 
         printf("\ndigite o codigo do estudante: ");
-        scanf("%d", &novo->id);
-        getchar();
+        fgets(input, sizeof(input), stdin); // Lê a entrada como uma string
+         if (sscanf(input, "%d", &novo->id) != 1 || novo->id <= 0) {
+            printf("\nCodigo invalido. Por favor, digite um numero inteiro positivo.\n");
+        }
+
+        } while(sscanf(input, "%d", &novo->id) != 1 || novo->id <= 0 );//verificando se os dados estao corretos!
 
         printf("\ndigite o nome do estudante: ");
         scanf(" %99[^\n]", novo->nome); // Adicionado espaço no formato para consumir nova linha
         getchar();
 
-        printf("\ndigite a data de nascimento do estudante (dd-mm-aaaa): "); // Formato esperado
-        scanf("%d-%d-%d", &novo->dia, &novo->mes, &novo->ano);
-        getchar();
+       do {
+        printf("\nDigite a data de nascimento do estudante (dd-mm-aaaa): ");
+        if (scanf("%d-%d-%d", &novo->dia, &novo->mes, &novo->ano) != 3 ||
+            novo->dia < 1 || novo->dia > 31 ||
+            novo->mes < 1 || novo->mes > 12 ||
+            novo->ano < 1900 || novo->ano > 2007) {
+            printf("Formato de data invalido. Use o formato dd-mm-aaaa.\n");
+            while (getchar() != '\n'); // Limpa o buffer de entrada
+        }
+    } while (novo->dia < 1 || novo->dia > 31 ||
+             novo->mes < 1 || novo->mes > 12 ||
+             novo->ano < 1900 || novo->ano > 2007);
 
         printf("\ndigite a nacionalidade do estudante: ");
         scanf(" %49[^\n]", novo->nacionalidade); // Adicionado espaço no formato para consumir nova linha
         getchar();
 
+        do{
         printf("\ndigite o numero de cadeiras inscritas do estudante: ");
-        scanf("%d", &cad->nMateria);
-        getchar();
+        fgets(input, sizeof(input), stdin);
+        if (sscanf(input, "%d", &cad->nMateria) != 1 || cad->nMateria <= 0) {
+            printf("\nnumero invalido. Por favor, digite um numero inteiro positivo.\n");
+        }
+        }while(sscanf(input, "%d", &cad->nMateria) != 1 || cad->nMateria <= 0 );
 
+        do{
         printf("\ndigite o total de creditos do estudante: ");
-        scanf("%f", &cad->ects);
-        getchar();
+        fgets(input, sizeof(input), stdin);
+        if (sscanf(input, "%f", &cad->ects) != 1 || cad->ects <= 0) {
+            printf("\nnumero invalido. Por favor, digite um numero inteiro positivo.\n");
+        }
+        }while(sscanf(input, "%f", &cad->ects) != 1 || cad->ects <= 0 );
 
         *e = realloc(*e, sizeof(estudante) * (quant + 1));
         *nm = realloc(*nm, sizeof(nmats) * (quant + 1));
@@ -66,7 +90,6 @@ int adicionarEstudante(estudante **e, nmats **nm, int quant)
         return 0;
     }
 }
-
 
 int lerArquivoDados(estudante **e, nmats **nm, char f[], char f2[])
 {
