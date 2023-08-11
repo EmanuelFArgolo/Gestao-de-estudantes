@@ -67,6 +67,7 @@ int adicionarEstudante(estudante **e, nmats **nm, int quant)
     }
 }
 
+
 int lerArquivoDados(estudante **e, nmats **nm, char f[], char f2[])
 {
     FILE *file = fopen(f, "r");
